@@ -1,0 +1,1001 @@
+customer_id,product_id,product_name,brand,price,promo,competitor_price,views,add_to_cart,purchased,category,date
+1032,P002,Orange Juice 1L,BrandY,2.34,No,2.32,3,1,0,Juices,2024-11-12
+1098,P004,Energy Drink 0.33L,BrandX,1.56,Yes,1.65,5,0,0,Energy,2024-11-15
+1018,P004,Energy Drink 0.33L,BrandY,1.75,Yes,1.91,4,0,0,Energy,2024-11-26
+1043,P004,Energy Drink 0.33L,BrandX,1.73,No,1.69,3,2,0,Energy,2024-11-29
+1020,P004,Energy Drink 0.33L,BrandX,1.66,No,1.82,8,1,0,Energy,2024-11-30
+1027,P003,Mineral Water 1.5L,BrandY,0.89,No,0.65,4,1,0,Water,2024-11-24
+1036,P001,Cola 0.5L,BrandY,1.55,No,1.68,3,1,0,Drinks,2024-11-23
+1055,P002,Orange Juice 1L,BrandY,2.24,No,2.21,6,2,0,Juices,2024-11-23
+1020,P002,Orange Juice 1L,BrandX,2.29,No,2.52,2,0,0,Juices,2024-11-09
+1081,P003,Mineral Water 1.5L,BrandX,1.0,No,0.7,4,0,0,Water,2024-11-25
+1070,P002,Orange Juice 1L,BrandX,2.38,No,2.43,6,0,0,Juices,2024-11-09
+1045,P001,Cola 0.5L,BrandY,1.37,Yes,1.56,3,0,0,Drinks,2024-11-25
+1022,P004,Energy Drink 0.33L,BrandY,1.81,No,1.51,6,0,0,Energy,2024-11-29
+1020,P003,Mineral Water 1.5L,BrandY,0.92,No,0.92,5,1,1,Water,2024-11-05
+1092,P003,Mineral Water 1.5L,BrandY,1.07,No,0.93,5,0,0,Water,2024-12-01
+1047,P001,Cola 0.5L,BrandX,1.49,Yes,1.79,5,2,0,Drinks,2024-11-29
+1035,P002,Orange Juice 1L,BrandX,2.21,No,2.16,7,3,1,Juices,2024-11-11
+1078,P001,Cola 0.5L,BrandX,1.35,No,1.53,6,2,0,Drinks,2024-11-20
+1028,P004,Energy Drink 0.33L,BrandY,1.81,No,1.63,5,1,1,Energy,2024-11-21
+1063,P002,Orange Juice 1L,BrandX,2.13,Yes,2.65,6,2,0,Juices,2024-11-19
+1052,P004,Energy Drink 0.33L,BrandX,1.58,Yes,2.17,2,1,0,Energy,2024-11-22
+1037,P003,Mineral Water 1.5L,BrandY,0.87,Yes,1.08,9,2,1,Water,2024-11-11
+1009,P004,Energy Drink 0.33L,BrandX,1.67,Yes,2.11,8,1,1,Energy,2024-11-21
+1003,P002,Orange Juice 1L,BrandX,2.32,No,2.36,9,2,0,Juices,2024-11-17
+1099,P003,Mineral Water 1.5L,BrandX,1.22,No,0.94,2,1,0,Water,2024-11-26
+1042,P003,Mineral Water 1.5L,BrandX,1.0,No,0.84,3,1,0,Water,2024-11-11
+1082,P002,Orange Juice 1L,BrandX,2.43,No,2.55,5,0,1,Juices,2024-11-16
+1041,P003,Mineral Water 1.5L,BrandY,1.04,No,1.17,3,1,0,Water,2024-11-04
+1079,P004,Energy Drink 0.33L,BrandX,1.83,No,2.08,4,0,0,Energy,2024-11-19
+1029,P001,Cola 0.5L,BrandX,1.32,Yes,1.75,5,1,0,Drinks,2024-11-13
+1088,P002,Orange Juice 1L,BrandY,2.43,No,2.21,3,1,0,Juices,2024-11-21
+1039,P002,Orange Juice 1L,BrandX,2.35,No,2.37,8,0,0,Juices,2024-11-27
+1032,P003,Mineral Water 1.5L,BrandY,0.94,No,0.97,3,0,0,Water,2024-11-30
+1064,P004,Energy Drink 0.33L,BrandY,1.88,No,1.93,7,2,0,Energy,2024-11-01
+1055,P004,Energy Drink 0.33L,BrandY,1.95,No,1.88,6,0,0,Energy,2024-11-28
+1025,P003,Mineral Water 1.5L,BrandY,0.96,No,0.87,8,2,0,Water,2024-11-14
+1024,P002,Orange Juice 1L,BrandY,2.22,No,2.22,4,1,0,Juices,2024-11-24
+1077,P003,Mineral Water 1.5L,BrandY,0.95,No,0.98,2,2,0,Water,2024-11-07
+1024,P001,Cola 0.5L,BrandY,1.61,No,1.54,6,3,0,Drinks,2024-11-22
+1061,P001,Cola 0.5L,BrandX,1.46,No,1.46,1,0,0,Drinks,2024-11-25
+1048,P001,Cola 0.5L,BrandY,1.54,No,1.77,5,3,0,Drinks,2024-11-02
+1046,P004,Energy Drink 0.33L,BrandX,1.8,No,1.95,6,1,0,Energy,2024-11-04
+1090,P001,Cola 0.5L,BrandY,1.48,No,1.63,4,0,1,Drinks,2024-11-11
+1073,P002,Orange Juice 1L,BrandY,2.1,No,2.15,10,0,0,Juices,2024-11-28
+1026,P002,Orange Juice 1L,BrandX,2.32,No,2.16,6,2,1,Juices,2024-11-27
+1040,P004,Energy Drink 0.33L,BrandX,1.94,No,1.99,6,2,0,Energy,2024-11-18
+1013,P001,Cola 0.5L,BrandY,1.41,No,1.36,8,0,0,Drinks,2024-11-19
+1060,P001,Cola 0.5L,BrandY,1.64,No,1.77,1,0,0,Drinks,2024-11-04
+1014,P004,Energy Drink 0.33L,BrandX,1.67,No,1.36,7,3,0,Energy,2024-11-02
+1063,P003,Mineral Water 1.5L,BrandY,0.96,No,0.71,4,0,0,Water,2024-11-27
+1094,P004,Energy Drink 0.33L,BrandY,1.68,No,1.75,5,0,0,Energy,2024-11-17
+1097,P004,Energy Drink 0.33L,BrandY,1.78,No,1.62,3,1,0,Energy,2024-11-09
+1094,P001,Cola 0.5L,BrandX,1.58,No,1.49,4,0,0,Drinks,2024-11-11
+1092,P002,Orange Juice 1L,BrandX,2.38,No,2.23,5,0,0,Juices,2024-11-14
+1096,P003,Mineral Water 1.5L,BrandY,0.84,Yes,0.77,6,1,0,Water,2024-11-18
+1045,P001,Cola 0.5L,BrandX,1.39,No,1.36,7,0,0,Drinks,2024-11-04
+1061,P003,Mineral Water 1.5L,BrandY,0.95,No,0.89,3,0,1,Water,2024-11-19
+1080,P002,Orange Juice 1L,BrandX,2.27,No,2.13,7,1,1,Juices,2024-11-01
+1054,P001,Cola 0.5L,BrandY,1.43,No,1.28,4,1,0,Drinks,2024-12-01
+1089,P004,Energy Drink 0.33L,BrandY,1.86,Yes,1.83,2,2,0,Energy,2024-11-10
+1079,P003,Mineral Water 1.5L,BrandX,0.93,No,1.04,8,2,1,Water,2024-11-07
+1044,P003,Mineral Water 1.5L,BrandY,1.04,No,1.28,3,0,0,Water,2024-11-13
+1054,P002,Orange Juice 1L,BrandX,2.32,No,2.63,6,2,0,Juices,2024-11-23
+1091,P004,Energy Drink 0.33L,BrandX,1.82,No,1.79,7,2,0,Energy,2024-11-17
+1037,P002,Orange Juice 1L,BrandX,2.39,No,2.4,4,1,1,Juices,2024-11-14
+1003,P004,Energy Drink 0.33L,BrandX,1.76,No,1.88,3,1,0,Energy,2024-11-04
+1008,P002,Orange Juice 1L,BrandX,2.37,No,2.23,5,2,0,Juices,2024-11-18
+1058,P003,Mineral Water 1.5L,BrandX,0.9,No,0.55,4,2,1,Water,2024-11-21
+1095,P002,Orange Juice 1L,BrandY,2.47,No,2.56,8,0,1,Juices,2024-11-09
+1077,P001,Cola 0.5L,BrandX,1.74,No,1.82,3,0,0,Drinks,2024-11-27
+1089,P001,Cola 0.5L,BrandY,1.57,No,1.58,5,0,0,Drinks,2024-11-28
+1086,P003,Mineral Water 1.5L,BrandX,1.07,No,1.05,2,1,0,Water,2024-11-05
+1039,P004,Energy Drink 0.33L,BrandY,1.71,No,1.69,4,2,0,Energy,2024-11-08
+1085,P003,Mineral Water 1.5L,BrandX,1.12,Yes,1.08,6,0,0,Water,2024-11-07
+1069,P002,Orange Juice 1L,BrandX,2.28,No,2.36,2,0,0,Juices,2024-11-15
+1083,P002,Orange Juice 1L,BrandY,2.28,No,2.28,2,0,0,Juices,2024-11-25
+1015,P001,Cola 0.5L,BrandY,1.54,No,1.38,5,1,0,Drinks,2024-11-17
+1010,P002,Orange Juice 1L,BrandY,2.12,Yes,2.3,2,0,0,Juices,2024-11-14
+1062,P003,Mineral Water 1.5L,BrandX,1.08,No,1.05,4,1,0,Water,2024-11-29
+1011,P002,Orange Juice 1L,BrandX,2.08,No,2.33,8,1,0,Juices,2024-11-19
+1058,P004,Energy Drink 0.33L,BrandX,1.49,Yes,1.77,5,2,0,Energy,2024-11-16
+1077,P004,Energy Drink 0.33L,BrandY,1.63,No,1.71,3,0,0,Energy,2024-11-19
+1014,P003,Mineral Water 1.5L,BrandY,1.02,No,1.17,6,0,0,Water,2024-11-29
+1076,P002,Orange Juice 1L,BrandY,2.31,No,2.2,5,1,0,Juices,2024-11-22
+1020,P003,Mineral Water 1.5L,BrandY,1.0,No,1.03,2,0,0,Water,2024-11-22
+1099,P003,Mineral Water 1.5L,BrandY,0.82,No,0.97,2,0,0,Water,2024-11-19
+1002,P003,Mineral Water 1.5L,BrandX,0.83,No,0.77,5,2,0,Water,2024-11-02
+1023,P001,Cola 0.5L,BrandX,1.33,Yes,1.57,9,5,1,Drinks,2024-11-07
+1059,P001,Cola 0.5L,BrandY,1.41,Yes,1.59,10,2,0,Drinks,2024-11-10
+1090,P001,Cola 0.5L,BrandY,1.39,No,1.58,4,1,1,Drinks,2024-11-11
+1099,P004,Energy Drink 0.33L,BrandY,1.49,Yes,1.75,5,4,0,Energy,2024-11-16
+1000,P004,Energy Drink 0.33L,BrandY,1.74,No,1.95,8,1,0,Energy,2024-11-14
+1034,P001,Cola 0.5L,BrandY,1.25,Yes,1.27,3,1,0,Drinks,2024-11-06
+1057,P004,Energy Drink 0.33L,BrandY,1.77,No,1.65,7,2,0,Energy,2024-11-13
+1093,P004,Energy Drink 0.33L,BrandX,1.73,No,1.65,3,2,1,Energy,2024-11-30
+1043,P002,Orange Juice 1L,BrandX,2.25,No,2.07,4,1,0,Juices,2024-11-19
+1065,P004,Energy Drink 0.33L,BrandX,1.71,No,1.73,8,1,0,Energy,2024-11-25
+1003,P004,Energy Drink 0.33L,BrandY,1.88,No,1.74,3,1,0,Energy,2024-11-30
+1058,P003,Mineral Water 1.5L,BrandX,1.24,No,1.16,11,3,0,Water,2024-11-08
+1011,P001,Cola 0.5L,BrandX,1.43,No,1.5,3,0,0,Drinks,2024-11-22
+1075,P003,Mineral Water 1.5L,BrandY,1.03,No,0.97,1,0,0,Water,2024-11-17
+1026,P003,Mineral Water 1.5L,BrandY,0.99,No,1.0,7,2,1,Water,2024-11-09
+1025,P002,Orange Juice 1L,BrandY,2.25,No,2.28,4,0,0,Juices,2024-11-12
+1033,P002,Orange Juice 1L,BrandY,2.23,No,2.29,1,0,0,Juices,2024-11-17
+1099,P002,Orange Juice 1L,BrandY,2.36,No,2.52,6,0,0,Juices,2024-11-22
+1001,P004,Energy Drink 0.33L,BrandY,1.9,No,2.1,6,1,1,Energy,2024-11-03
+1021,P004,Energy Drink 0.33L,BrandX,1.88,No,1.85,1,0,0,Energy,2024-11-12
+1079,P001,Cola 0.5L,BrandX,1.48,No,1.65,7,0,0,Drinks,2024-11-23
+1084,P001,Cola 0.5L,BrandX,1.61,No,1.68,3,0,0,Drinks,2024-11-20
+1021,P004,Energy Drink 0.33L,BrandY,1.8,No,1.7,3,0,0,Energy,2024-11-23
+1015,P003,Mineral Water 1.5L,BrandY,1.24,No,1.17,5,0,1,Water,2024-12-01
+1017,P003,Mineral Water 1.5L,BrandY,0.99,No,0.82,2,0,0,Water,2024-12-01
+1032,P004,Energy Drink 0.33L,BrandX,1.59,Yes,1.67,2,0,0,Energy,2024-11-16
+1042,P004,Energy Drink 0.33L,BrandX,1.56,Yes,1.82,3,2,0,Energy,2024-11-24
+1062,P004,Energy Drink 0.33L,BrandX,1.97,No,2.02,6,2,0,Energy,2024-11-12
+1011,P001,Cola 0.5L,BrandY,1.53,No,1.86,1,0,0,Drinks,2024-11-27
+1088,P004,Energy Drink 0.33L,BrandX,1.76,No,1.82,6,0,1,Energy,2024-11-15
+1079,P004,Energy Drink 0.33L,BrandX,1.61,Yes,1.81,2,0,0,Energy,2024-11-30
+1049,P002,Orange Juice 1L,BrandY,2.33,No,2.43,4,2,0,Juices,2024-12-01
+1026,P001,Cola 0.5L,BrandY,1.66,No,1.59,7,2,0,Drinks,2024-11-16
+1099,P004,Energy Drink 0.33L,BrandX,1.83,No,1.73,4,1,0,Energy,2024-11-12
+1032,P003,Mineral Water 1.5L,BrandY,0.97,No,1.13,5,1,0,Water,2024-11-10
+1099,P004,Energy Drink 0.33L,BrandY,1.74,No,1.79,3,1,0,Energy,2024-11-12
+1048,P004,Energy Drink 0.33L,BrandY,1.76,No,1.95,4,1,0,Energy,2024-11-01
+1022,P002,Orange Juice 1L,BrandX,2.41,No,2.4,4,0,0,Juices,2024-11-26
+1081,P001,Cola 0.5L,BrandX,1.48,No,1.32,2,0,1,Drinks,2024-11-28
+1010,P003,Mineral Water 1.5L,BrandX,1.0,No,1.07,5,0,0,Water,2024-11-27
+1100,P001,Cola 0.5L,BrandX,1.55,No,1.39,4,1,1,Drinks,2024-11-24
+1001,P002,Orange Juice 1L,BrandY,2.31,No,2.36,5,1,0,Juices,2024-11-03
+1026,P001,Cola 0.5L,BrandX,1.38,No,1.62,3,2,0,Drinks,2024-11-09
+1026,P002,Orange Juice 1L,BrandY,2.32,No,2.38,10,2,0,Juices,2024-11-12
+1015,P001,Cola 0.5L,BrandY,1.38,No,1.16,5,0,0,Drinks,2024-11-23
+1060,P002,Orange Juice 1L,BrandX,2.4,No,2.63,4,0,0,Juices,2024-12-01
+1090,P004,Energy Drink 0.33L,BrandX,1.93,No,1.66,5,0,0,Energy,2024-11-07
+1032,P001,Cola 0.5L,BrandX,1.57,No,1.61,4,1,0,Drinks,2024-11-18
+1080,P001,Cola 0.5L,BrandY,1.39,No,1.22,6,0,0,Drinks,2024-11-24
+1023,P004,Energy Drink 0.33L,BrandY,1.8,No,1.6,5,1,0,Energy,2024-11-05
+1083,P003,Mineral Water 1.5L,BrandY,1.04,No,1.06,7,1,0,Water,2024-11-10
+1064,P004,Energy Drink 0.33L,BrandY,1.72,No,1.85,5,0,0,Energy,2024-11-02
+1098,P001,Cola 0.5L,BrandY,1.3,Yes,1.52,3,0,0,Drinks,2024-11-03
+1055,P003,Mineral Water 1.5L,BrandX,0.98,No,1.37,7,0,0,Water,2024-11-04
+1030,P003,Mineral Water 1.5L,BrandY,0.75,Yes,0.91,3,0,0,Water,2024-11-25
+1031,P004,Energy Drink 0.33L,BrandX,1.61,Yes,1.67,7,2,1,Energy,2024-11-20
+1085,P001,Cola 0.5L,BrandX,1.56,No,1.85,4,1,0,Drinks,2024-11-30
+1034,P002,Orange Juice 1L,BrandY,2.2,No,2.21,7,4,1,Juices,2024-11-12
+1045,P001,Cola 0.5L,BrandY,1.61,No,1.63,3,1,1,Drinks,2024-11-07
+1069,P004,Energy Drink 0.33L,BrandY,1.68,No,1.55,4,1,0,Energy,2024-11-11
+1024,P004,Energy Drink 0.33L,BrandX,1.87,No,1.87,6,2,1,Energy,2024-11-08
+1037,P002,Orange Juice 1L,BrandY,2.35,No,2.44,2,1,0,Juices,2024-11-10
+1039,P002,Orange Juice 1L,BrandY,2.3,No,2.33,6,1,0,Juices,2024-11-25
+1085,P002,Orange Juice 1L,BrandY,2.02,Yes,2.1,1,1,0,Juices,2024-11-11
+1021,P003,Mineral Water 1.5L,BrandY,0.98,No,1.05,4,1,0,Water,2024-11-09
+1067,P002,Orange Juice 1L,BrandX,2.04,Yes,2.49,5,0,0,Juices,2024-11-07
+1096,P001,Cola 0.5L,BrandY,1.37,Yes,1.43,8,3,0,Drinks,2024-11-30
+1052,P001,Cola 0.5L,BrandY,1.44,No,1.26,3,0,0,Drinks,2024-11-03
+1018,P002,Orange Juice 1L,BrandY,2.24,No,2.3,1,0,1,Juices,2024-11-02
+1065,P003,Mineral Water 1.5L,BrandX,0.89,No,0.89,4,0,0,Water,2024-11-23
+1058,P001,Cola 0.5L,BrandX,1.26,No,1.19,8,3,0,Drinks,2024-11-12
+1026,P003,Mineral Water 1.5L,BrandX,0.98,No,1.12,6,2,0,Water,2024-11-23
+1072,P002,Orange Juice 1L,BrandY,2.04,Yes,2.28,2,0,1,Juices,2024-11-04
+1057,P004,Energy Drink 0.33L,BrandY,1.71,No,1.9,4,0,0,Energy,2024-11-27
+1004,P001,Cola 0.5L,BrandX,1.27,Yes,1.54,5,0,0,Drinks,2024-11-29
+1040,P003,Mineral Water 1.5L,BrandX,1.12,No,1.2,4,3,0,Water,2024-11-03
+1017,P002,Orange Juice 1L,BrandX,2.44,No,2.52,4,0,0,Juices,2024-11-10
+1034,P002,Orange Juice 1L,BrandX,2.5,No,2.33,2,1,0,Juices,2024-11-04
+1061,P002,Orange Juice 1L,BrandY,2.38,No,2.29,9,2,1,Juices,2024-11-13
+1038,P003,Mineral Water 1.5L,BrandX,0.98,No,0.97,8,2,0,Water,2024-11-13
+1007,P003,Mineral Water 1.5L,BrandX,1.02,No,1.16,2,0,0,Water,2024-11-23
+1038,P001,Cola 0.5L,BrandX,1.62,No,1.56,7,2,0,Drinks,2024-11-28
+1028,P001,Cola 0.5L,BrandY,1.41,No,1.51,3,1,1,Drinks,2024-12-01
+1037,P002,Orange Juice 1L,BrandY,2.21,No,1.9,5,1,0,Juices,2024-11-23
+1001,P004,Energy Drink 0.33L,BrandY,1.73,No,2.11,5,2,0,Energy,2024-11-16
+1034,P002,Orange Juice 1L,BrandY,2.06,Yes,2.49,5,1,0,Juices,2024-11-22
+1024,P003,Mineral Water 1.5L,BrandX,0.83,Yes,0.64,9,1,1,Water,2024-11-04
+1074,P001,Cola 0.5L,BrandX,1.61,No,1.32,3,0,0,Drinks,2024-11-22
+1012,P003,Mineral Water 1.5L,BrandX,1.0,No,0.73,7,1,0,Water,2024-11-07
+1022,P002,Orange Juice 1L,BrandY,2.31,No,2.25,5,2,0,Juices,2024-11-22
+1095,P002,Orange Juice 1L,BrandX,2.28,No,2.25,5,2,0,Juices,2024-11-06
+1100,P003,Mineral Water 1.5L,BrandX,0.85,Yes,0.94,6,2,1,Water,2024-11-11
+1093,P002,Orange Juice 1L,BrandX,2.12,Yes,2.37,6,1,0,Juices,2024-11-25
+1095,P004,Energy Drink 0.33L,BrandY,1.8,No,1.85,2,0,0,Energy,2024-11-30
+1034,P003,Mineral Water 1.5L,BrandY,0.98,Yes,1.49,5,1,0,Water,2024-11-12
+1071,P003,Mineral Water 1.5L,BrandY,1.03,No,1.17,4,1,0,Water,2024-11-02
+1019,P001,Cola 0.5L,BrandY,1.29,Yes,1.31,7,1,1,Drinks,2024-11-16
+1075,P001,Cola 0.5L,BrandX,1.48,No,1.37,5,2,1,Drinks,2024-11-01
+1054,P002,Orange Juice 1L,BrandY,2.3,No,2.08,8,2,0,Juices,2024-11-18
+1011,P004,Energy Drink 0.33L,BrandY,1.58,Yes,1.7,5,2,1,Energy,2024-11-22
+1059,P001,Cola 0.5L,BrandY,1.54,No,1.54,6,0,0,Drinks,2024-11-03
+1075,P004,Energy Drink 0.33L,BrandX,1.97,No,2.0,5,1,0,Energy,2024-11-09
+1094,P003,Mineral Water 1.5L,BrandX,1.12,No,1.1,5,2,0,Water,2024-11-04
+1059,P001,Cola 0.5L,BrandX,1.43,No,1.37,9,2,0,Drinks,2024-11-26
+1025,P002,Orange Juice 1L,BrandX,2.02,Yes,2.27,7,1,0,Juices,2024-11-29
+1014,P001,Cola 0.5L,BrandY,1.59,No,1.39,8,1,0,Drinks,2024-11-11
+1074,P001,Cola 0.5L,BrandY,1.5,No,1.67,3,1,1,Drinks,2024-11-16
+1064,P002,Orange Juice 1L,BrandY,2.36,No,2.29,6,2,0,Juices,2024-11-12
+1088,P003,Mineral Water 1.5L,BrandX,0.93,Yes,1.31,1,0,0,Water,2024-11-02
+1075,P002,Orange Juice 1L,BrandY,2.13,No,2.25,7,0,0,Juices,2024-11-03
+1043,P002,Orange Juice 1L,BrandX,2.07,Yes,2.47,3,2,0,Juices,2024-11-28
+1013,P002,Orange Juice 1L,BrandY,2.36,No,2.76,8,2,0,Juices,2024-11-16
+1089,P001,Cola 0.5L,BrandX,1.39,No,1.39,7,1,0,Drinks,2024-11-30
+1080,P002,Orange Juice 1L,BrandY,2.01,Yes,2.22,5,0,0,Juices,2024-11-22
+1021,P004,Energy Drink 0.33L,BrandX,1.59,Yes,1.77,2,0,0,Energy,2024-11-02
+1082,P002,Orange Juice 1L,BrandX,2.34,No,2.75,4,0,0,Juices,2024-11-27
+1033,P001,Cola 0.5L,BrandY,1.49,No,1.65,4,1,1,Drinks,2024-11-03
+1035,P004,Energy Drink 0.33L,BrandY,1.87,No,2.1,3,1,0,Energy,2024-11-10
+1013,P004,Energy Drink 0.33L,BrandY,1.75,Yes,2.08,4,1,0,Energy,2024-11-01
+1045,P004,Energy Drink 0.33L,BrandX,1.77,No,1.67,4,1,1,Energy,2024-11-26
+1077,P003,Mineral Water 1.5L,BrandX,1.09,No,1.13,3,0,0,Water,2024-11-02
+1089,P002,Orange Juice 1L,BrandX,2.12,No,2.02,2,0,0,Juices,2024-11-23
+1010,P003,Mineral Water 1.5L,BrandY,1.08,No,1.27,6,2,1,Water,2024-11-27
+1056,P003,Mineral Water 1.5L,BrandY,0.81,No,0.71,6,0,0,Water,2024-11-16
+1081,P003,Mineral Water 1.5L,BrandX,0.8,Yes,0.83,4,0,0,Water,2024-12-01
+1060,P004,Energy Drink 0.33L,BrandX,1.63,No,1.82,5,1,1,Energy,2024-11-25
+1042,P003,Mineral Water 1.5L,BrandX,0.85,Yes,0.93,2,1,0,Water,2024-11-21
+1099,P001,Cola 0.5L,BrandY,1.4,Yes,1.51,9,1,0,Drinks,2024-11-03
+1017,P002,Orange Juice 1L,BrandX,2.31,No,2.13,5,0,0,Juices,2024-11-18
+1072,P001,Cola 0.5L,BrandY,1.29,No,1.4,6,1,0,Drinks,2024-11-01
+1033,P001,Cola 0.5L,BrandY,1.37,No,1.44,3,2,1,Drinks,2024-11-23
+1098,P004,Energy Drink 0.33L,BrandY,1.82,No,2.09,4,2,1,Energy,2024-11-29
+1029,P003,Mineral Water 1.5L,BrandY,0.98,No,0.8,5,2,0,Water,2024-11-05
+1011,P002,Orange Juice 1L,BrandY,2.08,No,2.55,8,3,0,Juices,2024-11-05
+1100,P002,Orange Juice 1L,BrandY,2.35,No,1.91,3,1,0,Juices,2024-11-18
+1066,P002,Orange Juice 1L,BrandX,2.25,No,2.14,4,3,0,Juices,2024-11-19
+1018,P003,Mineral Water 1.5L,BrandY,0.85,Yes,1.07,10,2,0,Water,2024-11-02
+1076,P002,Orange Juice 1L,BrandY,1.92,Yes,1.89,4,2,0,Juices,2024-11-29
+1025,P003,Mineral Water 1.5L,BrandY,0.94,No,0.91,3,0,0,Water,2024-11-15
+1009,P002,Orange Juice 1L,BrandX,2.21,No,2.07,8,1,0,Juices,2024-11-23
+1086,P003,Mineral Water 1.5L,BrandY,0.69,No,0.72,4,2,1,Water,2024-11-12
+1036,P002,Orange Juice 1L,BrandY,2.16,Yes,2.81,4,1,0,Juices,2024-11-11
+1064,P004,Energy Drink 0.33L,BrandX,1.54,Yes,1.88,2,1,0,Energy,2024-11-14
+1037,P002,Orange Juice 1L,BrandX,2.37,No,2.24,4,1,1,Juices,2024-11-18
+1015,P002,Orange Juice 1L,BrandY,2.38,No,2.36,6,0,0,Juices,2024-11-04
+1064,P001,Cola 0.5L,BrandX,1.59,No,1.78,7,1,1,Drinks,2024-11-20
+1070,P003,Mineral Water 1.5L,BrandY,0.71,No,0.71,3,1,0,Water,2024-11-29
+1049,P002,Orange Juice 1L,BrandX,2.32,No,2.37,7,2,0,Juices,2024-11-12
+1040,P004,Energy Drink 0.33L,BrandY,1.9,No,1.69,5,0,0,Energy,2024-11-18
+1098,P001,Cola 0.5L,BrandY,1.4,Yes,1.48,2,0,0,Drinks,2024-12-01
+1091,P003,Mineral Water 1.5L,BrandX,0.73,No,0.7,1,0,1,Water,2024-11-06
+1065,P004,Energy Drink 0.33L,BrandX,1.99,No,2.02,5,2,1,Energy,2024-11-06
+1040,P001,Cola 0.5L,BrandX,1.3,Yes,1.36,5,0,0,Drinks,2024-11-07
+1053,P003,Mineral Water 1.5L,BrandY,1.06,No,1.16,3,0,0,Water,2024-11-18
+1054,P002,Orange Juice 1L,BrandY,2.04,Yes,2.52,8,1,0,Juices,2024-11-02
+1084,P003,Mineral Water 1.5L,BrandX,1.12,No,1.2,5,1,1,Water,2024-11-13
+1046,P001,Cola 0.5L,BrandY,1.46,No,1.18,2,0,0,Drinks,2024-11-20
+1010,P004,Energy Drink 0.33L,BrandX,1.68,No,1.66,4,0,0,Energy,2024-11-20
+1043,P002,Orange Juice 1L,BrandY,2.51,No,2.23,2,0,0,Juices,2024-11-09
+1099,P003,Mineral Water 1.5L,BrandX,1.03,No,1.09,9,0,0,Water,2024-11-21
+1051,P001,Cola 0.5L,BrandX,1.53,No,1.53,5,0,0,Drinks,2024-11-10
+1072,P002,Orange Juice 1L,BrandX,2.06,Yes,2.52,1,1,0,Juices,2024-11-19
+1057,P003,Mineral Water 1.5L,BrandY,0.86,No,0.95,4,1,0,Water,2024-11-06
+1052,P004,Energy Drink 0.33L,BrandY,1.75,No,1.65,5,2,1,Energy,2024-12-01
+1003,P004,Energy Drink 0.33L,BrandX,1.8,No,1.89,5,0,0,Energy,2024-11-11
+1073,P004,Energy Drink 0.33L,BrandX,1.79,No,1.65,1,0,0,Energy,2024-11-13
+1081,P001,Cola 0.5L,BrandY,1.34,No,1.64,9,2,0,Drinks,2024-11-12
+1021,P003,Mineral Water 1.5L,BrandY,0.86,No,0.91,3,2,0,Water,2024-12-01
+1069,P003,Mineral Water 1.5L,BrandX,1.12,No,1.06,7,1,0,Water,2024-11-22
+1059,P002,Orange Juice 1L,BrandX,2.09,Yes,2.25,4,0,0,Juices,2024-11-17
+1070,P001,Cola 0.5L,BrandY,1.56,No,1.39,6,1,1,Drinks,2024-11-08
+1022,P002,Orange Juice 1L,BrandY,2.23,No,2.44,4,1,0,Juices,2024-11-12
+1083,P002,Orange Juice 1L,BrandX,2.36,No,2.13,5,2,1,Juices,2024-11-08
+1065,P004,Energy Drink 0.33L,BrandX,1.9,No,2.05,7,1,1,Energy,2024-11-22
+1097,P004,Energy Drink 0.33L,BrandY,1.83,No,1.95,7,0,0,Energy,2024-11-11
+1051,P002,Orange Juice 1L,BrandX,2.28,No,2.35,6,2,0,Juices,2024-11-25
+1022,P003,Mineral Water 1.5L,BrandX,1.01,No,1.22,3,0,0,Water,2024-11-26
+1092,P004,Energy Drink 0.33L,BrandX,1.9,No,1.99,4,1,0,Energy,2024-11-30
+1070,P001,Cola 0.5L,BrandX,1.31,No,1.37,5,2,0,Drinks,2024-11-20
+1030,P004,Energy Drink 0.33L,BrandY,1.97,No,1.87,5,0,0,Energy,2024-11-04
+1046,P003,Mineral Water 1.5L,BrandY,0.95,No,0.99,4,0,1,Water,2024-11-15
+1036,P001,Cola 0.5L,BrandY,1.47,No,1.33,5,1,0,Drinks,2024-11-09
+1063,P001,Cola 0.5L,BrandX,1.58,No,1.39,2,1,0,Drinks,2024-12-01
+1040,P004,Energy Drink 0.33L,BrandY,1.81,No,1.69,2,2,0,Energy,2024-11-11
+1072,P003,Mineral Water 1.5L,BrandX,1.11,No,1.26,5,0,0,Water,2024-11-25
+1086,P002,Orange Juice 1L,BrandX,2.35,No,2.4,4,1,0,Juices,2024-11-29
+1048,P003,Mineral Water 1.5L,BrandY,1.05,No,1.04,5,1,0,Water,2024-11-09
+1050,P002,Orange Juice 1L,BrandX,2.32,No,2.35,3,1,0,Juices,2024-11-04
+1077,P001,Cola 0.5L,BrandY,1.36,No,1.46,4,0,0,Drinks,2024-11-05
+1050,P001,Cola 0.5L,BrandX,1.26,Yes,1.28,8,3,0,Drinks,2024-11-12
+1018,P003,Mineral Water 1.5L,BrandX,1.04,No,0.85,5,1,0,Water,2024-11-27
+1076,P003,Mineral Water 1.5L,BrandX,1.07,No,1.03,7,3,0,Water,2024-11-18
+1050,P003,Mineral Water 1.5L,BrandY,0.94,No,1.07,1,0,0,Water,2024-11-16
+1056,P003,Mineral Water 1.5L,BrandY,0.96,Yes,1.07,5,0,0,Water,2024-11-25
+1092,P003,Mineral Water 1.5L,BrandX,1.07,No,1.12,4,1,0,Water,2024-11-25
+1032,P004,Energy Drink 0.33L,BrandY,1.65,No,1.45,9,1,0,Energy,2024-11-03
+1046,P002,Orange Juice 1L,BrandY,2.15,No,2.15,8,2,0,Juices,2024-11-10
+1090,P001,Cola 0.5L,BrandY,1.35,Yes,1.76,1,0,0,Drinks,2024-11-11
+1006,P004,Energy Drink 0.33L,BrandY,1.55,Yes,1.53,4,0,0,Energy,2024-11-18
+1019,P002,Orange Juice 1L,BrandY,2.39,No,2.7,6,2,0,Juices,2024-11-22
+1055,P003,Mineral Water 1.5L,BrandX,0.89,No,0.9,2,1,0,Water,2024-11-02
+1050,P001,Cola 0.5L,BrandX,1.58,No,1.54,2,1,0,Drinks,2024-11-24
+1068,P001,Cola 0.5L,BrandY,1.75,No,1.58,2,1,0,Drinks,2024-11-01
+1030,P003,Mineral Water 1.5L,BrandX,1.03,No,1.09,7,0,0,Water,2024-11-23
+1075,P004,Energy Drink 0.33L,BrandY,1.76,No,1.9,3,0,0,Energy,2024-11-26
+1013,P002,Orange Juice 1L,BrandX,2.1,No,2.19,3,0,0,Juices,2024-11-19
+1051,P004,Energy Drink 0.33L,BrandX,1.73,Yes,2.07,3,1,1,Energy,2024-11-20
+1049,P002,Orange Juice 1L,BrandX,2.22,No,2.23,8,1,0,Juices,2024-11-05
+1015,P002,Orange Juice 1L,BrandY,2.32,No,2.39,8,1,0,Juices,2024-11-03
+1088,P004,Energy Drink 0.33L,BrandY,1.68,No,1.56,4,1,0,Energy,2024-11-08
+1082,P003,Mineral Water 1.5L,BrandY,1.04,No,1.19,6,0,0,Water,2024-12-01
+1014,P002,Orange Juice 1L,BrandY,2.34,No,2.13,5,1,0,Juices,2024-11-06
+1050,P003,Mineral Water 1.5L,BrandX,0.94,No,0.93,3,0,0,Water,2024-11-25
+1019,P003,Mineral Water 1.5L,BrandY,1.06,No,1.01,7,0,1,Water,2024-11-13
+1006,P002,Orange Juice 1L,BrandX,2.41,No,2.29,4,0,0,Juices,2024-11-13
+1100,P004,Energy Drink 0.33L,BrandY,1.91,No,1.82,3,1,0,Energy,2024-11-10
+1006,P001,Cola 0.5L,BrandY,1.53,No,1.69,9,2,1,Drinks,2024-11-19
+1082,P002,Orange Juice 1L,BrandY,2.27,No,2.35,7,1,0,Juices,2024-11-14
+1002,P004,Energy Drink 0.33L,BrandY,1.68,No,1.9,6,1,0,Energy,2024-11-21
+1097,P003,Mineral Water 1.5L,BrandY,1.05,No,0.92,3,1,0,Water,2024-11-15
+1026,P004,Energy Drink 0.33L,BrandX,1.87,No,1.94,6,3,0,Energy,2024-11-27
+1064,P003,Mineral Water 1.5L,BrandY,0.74,Yes,0.99,2,0,0,Water,2024-11-17
+1020,P004,Energy Drink 0.33L,BrandY,1.82,No,1.94,7,3,0,Energy,2024-11-17
+1000,P002,Orange Juice 1L,BrandX,2.29,No,2.36,2,2,1,Juices,2024-11-12
+1071,P002,Orange Juice 1L,BrandY,2.04,Yes,2.16,3,0,0,Juices,2024-11-04
+1054,P002,Orange Juice 1L,BrandX,2.12,No,2.05,3,0,0,Juices,2024-11-25
+1069,P002,Orange Juice 1L,BrandX,2.24,No,2.27,4,0,0,Juices,2024-11-02
+1066,P003,Mineral Water 1.5L,BrandX,1.05,No,0.78,3,1,0,Water,2024-11-13
+1073,P001,Cola 0.5L,BrandY,1.41,No,1.41,3,0,0,Drinks,2024-11-04
+1076,P004,Energy Drink 0.33L,BrandX,1.97,No,2.09,8,2,0,Energy,2024-11-20
+1005,P002,Orange Juice 1L,BrandX,2.41,No,2.4,5,0,1,Juices,2024-11-23
+1007,P004,Energy Drink 0.33L,BrandY,1.82,No,1.63,6,1,0,Energy,2024-11-27
+1082,P002,Orange Juice 1L,BrandY,1.98,Yes,2.09,6,2,0,Juices,2024-11-26
+1063,P002,Orange Juice 1L,BrandY,2.3,No,2.17,4,2,0,Juices,2024-11-30
+1013,P002,Orange Juice 1L,BrandY,2.32,No,2.38,4,1,1,Juices,2024-11-01
+1020,P003,Mineral Water 1.5L,BrandX,0.92,No,0.81,5,1,1,Water,2024-11-23
+1033,P002,Orange Juice 1L,BrandX,2.24,No,2.45,1,0,0,Juices,2024-11-06
+1011,P001,Cola 0.5L,BrandY,1.73,No,1.76,3,1,0,Drinks,2024-11-14
+1033,P003,Mineral Water 1.5L,BrandX,0.86,Yes,1.0,2,1,0,Water,2024-11-13
+1047,P001,Cola 0.5L,BrandX,1.21,Yes,1.45,6,2,0,Drinks,2024-11-20
+1008,P004,Energy Drink 0.33L,BrandY,1.59,Yes,1.87,3,0,0,Energy,2024-11-30
+1074,P004,Energy Drink 0.33L,BrandX,1.84,No,1.87,8,4,0,Energy,2024-11-07
+1082,P001,Cola 0.5L,BrandY,1.59,No,1.75,4,0,0,Drinks,2024-11-25
+1074,P003,Mineral Water 1.5L,BrandY,0.94,No,0.77,1,0,0,Water,2024-11-22
+1061,P004,Energy Drink 0.33L,BrandY,1.8,No,1.35,8,0,0,Energy,2024-11-09
+1070,P002,Orange Juice 1L,BrandY,2.2,No,2.46,7,1,0,Juices,2024-11-25
+1009,P003,Mineral Water 1.5L,BrandX,1.01,No,1.27,4,0,0,Water,2024-11-28
+1004,P003,Mineral Water 1.5L,BrandX,0.96,No,1.07,8,3,1,Water,2024-11-05
+1066,P002,Orange Juice 1L,BrandY,2.31,No,2.17,3,1,0,Juices,2024-11-28
+1036,P003,Mineral Water 1.5L,BrandY,1.0,No,0.97,3,2,1,Water,2024-11-21
+1060,P003,Mineral Water 1.5L,BrandX,0.98,No,1.05,1,0,0,Water,2024-11-09
+1022,P004,Energy Drink 0.33L,BrandY,1.85,No,1.65,8,1,0,Energy,2024-11-25
+1071,P003,Mineral Water 1.5L,BrandX,0.84,No,0.42,6,3,0,Water,2024-11-06
+1044,P003,Mineral Water 1.5L,BrandY,1.01,No,1.08,2,0,0,Water,2024-11-10
+1067,P004,Energy Drink 0.33L,BrandX,1.8,No,1.87,2,0,0,Energy,2024-11-11
+1077,P001,Cola 0.5L,BrandY,1.43,No,1.46,7,1,0,Drinks,2024-11-02
+1015,P002,Orange Juice 1L,BrandY,2.17,Yes,2.6,4,1,0,Juices,2024-11-14
+1057,P003,Mineral Water 1.5L,BrandX,1.01,No,1.16,11,3,0,Water,2024-11-08
+1047,P002,Orange Juice 1L,BrandY,2.13,Yes,2.45,8,2,0,Juices,2024-11-07
+1007,P004,Energy Drink 0.33L,BrandX,1.45,Yes,1.72,1,1,1,Energy,2024-11-30
+1037,P001,Cola 0.5L,BrandY,1.64,No,1.54,7,2,0,Drinks,2024-11-03
+1001,P001,Cola 0.5L,BrandX,1.42,No,1.47,4,1,0,Drinks,2024-11-19
+1062,P003,Mineral Water 1.5L,BrandY,0.96,No,0.78,3,0,0,Water,2024-11-12
+1041,P004,Energy Drink 0.33L,BrandX,1.68,No,1.73,3,0,0,Energy,2024-11-14
+1053,P003,Mineral Water 1.5L,BrandY,0.88,Yes,1.09,3,1,0,Water,2024-11-05
+1080,P004,Energy Drink 0.33L,BrandX,1.55,Yes,1.87,6,3,0,Energy,2024-11-09
+1049,P003,Mineral Water 1.5L,BrandY,0.93,No,0.94,6,1,0,Water,2024-11-18
+1014,P003,Mineral Water 1.5L,BrandX,0.95,Yes,0.94,5,1,1,Water,2024-11-06
+1036,P002,Orange Juice 1L,BrandY,2.01,Yes,2.3,4,0,0,Juices,2024-11-27
+1056,P002,Orange Juice 1L,BrandX,2.2,No,2.29,5,0,0,Juices,2024-11-20
+1055,P004,Energy Drink 0.33L,BrandY,1.84,No,1.99,5,0,1,Energy,2024-11-02
+1038,P002,Orange Juice 1L,BrandX,2.38,No,2.65,5,1,1,Juices,2024-12-01
+1016,P002,Orange Juice 1L,BrandX,2.38,No,2.46,3,1,1,Juices,2024-11-03
+1012,P001,Cola 0.5L,BrandX,1.39,No,1.29,3,2,0,Drinks,2024-11-25
+1069,P003,Mineral Water 1.5L,BrandY,0.94,No,1.07,7,2,0,Water,2024-11-07
+1076,P004,Energy Drink 0.33L,BrandY,1.93,No,2.03,2,1,0,Energy,2024-11-21
+1082,P004,Energy Drink 0.33L,BrandY,1.71,No,1.9,3,0,0,Energy,2024-11-30
+1098,P002,Orange Juice 1L,BrandY,2.3,No,2.26,5,2,0,Juices,2024-11-11
+1091,P002,Orange Juice 1L,BrandY,2.06,Yes,2.72,5,1,0,Juices,2024-11-22
+1083,P003,Mineral Water 1.5L,BrandY,1.18,No,1.22,5,0,0,Water,2024-11-30
+1095,P003,Mineral Water 1.5L,BrandY,1.11,No,1.33,2,1,0,Water,2024-11-01
+1085,P004,Energy Drink 0.33L,BrandY,1.53,Yes,1.64,7,0,0,Energy,2024-11-22
+1000,P004,Energy Drink 0.33L,BrandY,1.49,Yes,1.55,6,1,0,Energy,2024-11-25
+1017,P002,Orange Juice 1L,BrandY,1.94,Yes,2.06,2,2,0,Juices,2024-11-22
+1092,P002,Orange Juice 1L,BrandY,2.4,No,2.41,7,0,0,Juices,2024-11-17
+1082,P004,Energy Drink 0.33L,BrandY,1.81,No,1.66,7,1,0,Energy,2024-11-30
+1001,P002,Orange Juice 1L,BrandY,2.15,Yes,2.44,3,1,0,Juices,2024-11-23
+1057,P001,Cola 0.5L,BrandX,1.51,No,1.37,3,0,0,Drinks,2024-11-01
+1015,P003,Mineral Water 1.5L,BrandY,0.91,No,0.75,7,2,0,Water,2024-11-28
+1073,P001,Cola 0.5L,BrandX,1.4,Yes,1.52,4,1,0,Drinks,2024-11-21
+1084,P003,Mineral Water 1.5L,BrandX,0.96,No,1.2,5,0,0,Water,2024-11-24
+1097,P002,Orange Juice 1L,BrandY,2.16,No,2.16,5,1,0,Juices,2024-11-18
+1013,P004,Energy Drink 0.33L,BrandY,1.72,No,2.01,5,1,0,Energy,2024-11-29
+1028,P004,Energy Drink 0.33L,BrandY,1.61,No,1.83,3,0,0,Energy,2024-11-18
+1051,P001,Cola 0.5L,BrandX,1.71,No,1.89,5,2,0,Drinks,2024-11-23
+1053,P002,Orange Juice 1L,BrandY,1.99,Yes,2.14,7,1,0,Juices,2024-11-27
+1051,P003,Mineral Water 1.5L,BrandX,1.04,No,1.13,6,1,0,Water,2024-11-07
+1030,P001,Cola 0.5L,BrandX,1.56,No,1.58,5,2,0,Drinks,2024-11-17
+1050,P003,Mineral Water 1.5L,BrandY,0.97,No,0.81,4,0,0,Water,2024-11-29
+1026,P001,Cola 0.5L,BrandX,1.52,No,1.7,10,2,0,Drinks,2024-11-27
+1020,P001,Cola 0.5L,BrandX,1.63,No,1.71,3,0,0,Drinks,2024-11-11
+1056,P001,Cola 0.5L,BrandY,1.3,Yes,1.25,5,1,0,Drinks,2024-11-04
+1038,P003,Mineral Water 1.5L,BrandY,1.0,No,0.89,4,0,0,Water,2024-11-23
+1079,P004,Energy Drink 0.33L,BrandX,1.8,Yes,2.09,4,0,0,Energy,2024-11-13
+1088,P004,Energy Drink 0.33L,BrandX,1.63,No,1.65,6,0,0,Energy,2024-11-09
+1008,P002,Orange Juice 1L,BrandX,2.18,No,2.45,2,0,0,Juices,2024-11-19
+1045,P002,Orange Juice 1L,BrandX,2.3,No,2.38,3,0,0,Juices,2024-11-19
+1062,P004,Energy Drink 0.33L,BrandX,1.84,No,2.13,3,1,1,Energy,2024-11-25
+1089,P004,Energy Drink 0.33L,BrandY,1.84,No,1.79,4,1,0,Energy,2024-11-21
+1006,P002,Orange Juice 1L,BrandX,2.23,No,2.47,5,1,0,Juices,2024-11-22
+1070,P004,Energy Drink 0.33L,BrandX,1.84,No,1.47,3,0,0,Energy,2024-11-16
+1051,P003,Mineral Water 1.5L,BrandY,1.13,No,0.95,5,1,0,Water,2024-11-13
+1056,P002,Orange Juice 1L,BrandX,2.12,Yes,2.24,8,1,0,Juices,2024-11-15
+1025,P004,Energy Drink 0.33L,BrandY,1.74,No,1.5,2,0,0,Energy,2024-11-06
+1070,P002,Orange Juice 1L,BrandX,2.12,Yes,2.37,4,1,1,Juices,2024-11-01
+1090,P002,Orange Juice 1L,BrandY,2.31,No,2.47,7,0,0,Juices,2024-11-29
+1051,P004,Energy Drink 0.33L,BrandY,1.84,No,1.56,3,0,0,Energy,2024-11-04
+1028,P003,Mineral Water 1.5L,BrandY,0.92,No,0.78,3,1,1,Water,2024-11-14
+1065,P002,Orange Juice 1L,BrandY,2.28,No,2.43,7,1,1,Juices,2024-11-04
+1029,P004,Energy Drink 0.33L,BrandY,1.54,Yes,1.6,7,0,1,Energy,2024-11-06
+1073,P004,Energy Drink 0.33L,BrandY,1.85,No,1.88,8,1,0,Energy,2024-11-26
+1097,P002,Orange Juice 1L,BrandY,2.22,No,1.95,4,1,1,Juices,2024-11-20
+1067,P003,Mineral Water 1.5L,BrandX,1.12,No,1.02,5,1,0,Water,2024-11-24
+1007,P003,Mineral Water 1.5L,BrandY,0.91,No,0.74,9,2,0,Water,2024-11-05
+1091,P003,Mineral Water 1.5L,BrandX,0.89,No,0.89,9,3,0,Water,2024-12-01
+1066,P004,Energy Drink 0.33L,BrandY,1.89,No,2.02,3,1,0,Energy,2024-11-30
+1012,P003,Mineral Water 1.5L,BrandY,0.85,Yes,1.11,8,2,0,Water,2024-11-24
+1077,P001,Cola 0.5L,BrandX,1.54,No,1.68,6,3,0,Drinks,2024-11-19
+1055,P003,Mineral Water 1.5L,BrandX,0.85,No,0.97,5,1,1,Water,2024-11-01
+1039,P001,Cola 0.5L,BrandX,1.35,No,1.15,7,0,0,Drinks,2024-11-25
+1079,P004,Energy Drink 0.33L,BrandY,1.63,No,1.89,6,2,0,Energy,2024-11-28
+1014,P001,Cola 0.5L,BrandY,1.58,No,1.33,4,1,0,Drinks,2024-11-29
+1072,P003,Mineral Water 1.5L,BrandX,0.94,Yes,1.14,2,1,0,Water,2024-11-25
+1013,P003,Mineral Water 1.5L,BrandY,0.99,No,0.83,4,3,0,Water,2024-11-25
+1098,P002,Orange Juice 1L,BrandY,2.28,No,2.21,6,2,0,Juices,2024-11-30
+1092,P003,Mineral Water 1.5L,BrandY,0.99,No,1.03,6,1,0,Water,2024-12-01
+1036,P001,Cola 0.5L,BrandX,1.35,No,1.27,2,0,0,Drinks,2024-11-10
+1098,P003,Mineral Water 1.5L,BrandY,1.01,No,0.81,6,3,0,Water,2024-11-12
+1079,P003,Mineral Water 1.5L,BrandY,0.88,No,0.72,4,0,0,Water,2024-11-28
+1009,P002,Orange Juice 1L,BrandY,2.34,No,2.27,4,2,0,Juices,2024-11-15
+1056,P001,Cola 0.5L,BrandX,1.65,No,1.66,6,1,0,Drinks,2024-11-13
+1031,P004,Energy Drink 0.33L,BrandY,1.66,Yes,1.71,6,0,0,Energy,2024-11-21
+1064,P003,Mineral Water 1.5L,BrandY,0.94,No,0.93,4,0,0,Water,2024-11-07
+1006,P004,Energy Drink 0.33L,BrandX,1.65,Yes,1.75,6,3,1,Energy,2024-11-01
+1048,P001,Cola 0.5L,BrandY,1.52,No,1.65,3,0,0,Drinks,2024-11-29
+1010,P002,Orange Juice 1L,BrandY,2.41,No,2.47,2,0,0,Juices,2024-11-26
+1062,P002,Orange Juice 1L,BrandY,2.45,No,2.57,5,2,0,Juices,2024-11-30
+1015,P002,Orange Juice 1L,BrandY,1.96,Yes,2.35,3,0,0,Juices,2024-11-02
+1043,P003,Mineral Water 1.5L,BrandY,0.89,Yes,0.96,6,2,0,Water,2024-11-30
+1063,P004,Energy Drink 0.33L,BrandY,1.48,Yes,1.67,9,1,0,Energy,2024-11-03
+1072,P001,Cola 0.5L,BrandX,1.56,No,1.44,7,2,1,Drinks,2024-11-26
+1094,P001,Cola 0.5L,BrandX,1.41,No,1.12,8,1,0,Drinks,2024-11-07
+1067,P004,Energy Drink 0.33L,BrandY,1.95,No,1.9,5,2,0,Energy,2024-11-13
+1089,P004,Energy Drink 0.33L,BrandX,1.7,No,1.31,4,0,0,Energy,2024-11-28
+1001,P001,Cola 0.5L,BrandY,1.57,No,1.39,8,2,0,Drinks,2024-12-01
+1056,P002,Orange Juice 1L,BrandY,2.39,No,2.31,5,2,1,Juices,2024-11-15
+1011,P003,Mineral Water 1.5L,BrandX,0.86,Yes,0.77,5,0,0,Water,2024-11-16
+1053,P002,Orange Juice 1L,BrandX,2.33,No,2.46,5,1,0,Juices,2024-11-28
+1095,P002,Orange Juice 1L,BrandX,2.32,No,2.04,9,2,0,Juices,2024-11-11
+1006,P002,Orange Juice 1L,BrandX,2.27,No,2.65,4,0,0,Juices,2024-11-05
+1033,P002,Orange Juice 1L,BrandX,2.21,No,2.5,7,1,0,Juices,2024-11-05
+1002,P003,Mineral Water 1.5L,BrandY,1.15,No,1.2,4,1,0,Water,2024-11-24
+1065,P003,Mineral Water 1.5L,BrandX,0.85,Yes,1.03,4,0,0,Water,2024-11-26
+1064,P004,Energy Drink 0.33L,BrandY,1.78,No,1.69,2,0,0,Energy,2024-11-12
+1040,P001,Cola 0.5L,BrandX,1.3,No,1.42,2,1,1,Drinks,2024-11-09
+1094,P002,Orange Juice 1L,BrandX,2.45,No,2.57,7,1,1,Juices,2024-11-09
+1036,P003,Mineral Water 1.5L,BrandY,1.08,No,1.41,5,3,0,Water,2024-11-07
+1092,P002,Orange Juice 1L,BrandX,2.22,No,2.25,8,2,0,Juices,2024-11-10
+1027,P003,Mineral Water 1.5L,BrandX,0.89,No,0.8,6,1,0,Water,2024-11-01
+1008,P004,Energy Drink 0.33L,BrandY,1.57,Yes,1.45,3,1,0,Energy,2024-11-04
+1018,P004,Energy Drink 0.33L,BrandY,1.57,Yes,1.76,6,2,0,Energy,2024-11-14
+1064,P003,Mineral Water 1.5L,BrandY,1.01,No,1.07,8,0,0,Water,2024-11-20
+1031,P001,Cola 0.5L,BrandY,1.39,No,1.23,9,1,1,Drinks,2024-11-17
+1082,P001,Cola 0.5L,BrandY,1.65,No,1.42,3,0,0,Drinks,2024-11-17
+1036,P004,Energy Drink 0.33L,BrandX,1.5,Yes,1.42,7,1,0,Energy,2024-11-04
+1015,P004,Energy Drink 0.33L,BrandY,1.71,Yes,2.09,10,2,1,Energy,2024-11-08
+1086,P003,Mineral Water 1.5L,BrandY,0.94,No,0.98,4,0,0,Water,2024-12-01
+1001,P001,Cola 0.5L,BrandY,1.43,No,1.44,5,0,0,Drinks,2024-11-04
+1023,P001,Cola 0.5L,BrandY,1.47,No,1.7,6,2,0,Drinks,2024-11-15
+1089,P004,Energy Drink 0.33L,BrandX,1.52,Yes,1.84,1,0,0,Energy,2024-11-12
+1010,P004,Energy Drink 0.33L,BrandY,2.02,No,1.91,2,1,1,Energy,2024-11-26
+1078,P002,Orange Juice 1L,BrandY,2.42,No,2.06,9,4,0,Juices,2024-11-18
+1067,P002,Orange Juice 1L,BrandX,2.13,No,2.22,4,0,0,Juices,2024-11-20
+1067,P003,Mineral Water 1.5L,BrandX,0.82,No,0.83,5,2,0,Water,2024-11-16
+1034,P001,Cola 0.5L,BrandY,1.34,Yes,1.57,7,1,0,Drinks,2024-11-19
+1010,P003,Mineral Water 1.5L,BrandX,1.24,No,1.23,7,1,0,Water,2024-11-25
+1018,P001,Cola 0.5L,BrandY,1.63,No,1.58,6,0,0,Drinks,2024-11-14
+1043,P001,Cola 0.5L,BrandY,1.51,No,1.84,8,0,0,Drinks,2024-11-22
+1087,P002,Orange Juice 1L,BrandX,2.39,No,2.35,8,2,0,Juices,2024-11-06
+1097,P003,Mineral Water 1.5L,BrandY,0.98,No,0.9,4,3,0,Water,2024-11-23
+1080,P002,Orange Juice 1L,BrandY,2.5,No,2.27,4,1,0,Juices,2024-11-24
+1066,P002,Orange Juice 1L,BrandX,2.44,No,2.53,4,0,1,Juices,2024-11-01
+1089,P001,Cola 0.5L,BrandY,1.61,No,1.38,3,0,0,Drinks,2024-11-05
+1027,P002,Orange Juice 1L,BrandY,2.23,No,2.04,5,0,0,Juices,2024-11-11
+1036,P003,Mineral Water 1.5L,BrandY,1.04,No,1.1,3,1,0,Water,2024-11-18
+1021,P002,Orange Juice 1L,BrandY,2.12,No,1.98,8,2,0,Juices,2024-11-25
+1059,P003,Mineral Water 1.5L,BrandY,1.03,No,1.26,7,1,0,Water,2024-11-07
+1024,P003,Mineral Water 1.5L,BrandY,0.9,No,0.82,3,2,1,Water,2024-11-24
+1057,P002,Orange Juice 1L,BrandY,2.23,No,2.28,7,1,0,Juices,2024-11-08
+1020,P002,Orange Juice 1L,BrandX,2.22,No,2.25,5,0,0,Juices,2024-11-07
+1092,P001,Cola 0.5L,BrandY,1.5,No,1.66,5,0,0,Drinks,2024-11-23
+1049,P003,Mineral Water 1.5L,BrandY,0.93,No,0.87,7,2,0,Water,2024-11-23
+1044,P001,Cola 0.5L,BrandY,1.37,Yes,1.5,9,2,1,Drinks,2024-11-22
+1095,P002,Orange Juice 1L,BrandY,2.05,Yes,2.41,4,1,0,Juices,2024-11-16
+1077,P003,Mineral Water 1.5L,BrandX,1.01,No,1.1,4,0,0,Water,2024-11-15
+1095,P004,Energy Drink 0.33L,BrandX,1.92,No,2.06,3,1,1,Energy,2024-11-13
+1040,P002,Orange Juice 1L,BrandY,2.28,No,2.43,4,2,1,Juices,2024-11-14
+1006,P003,Mineral Water 1.5L,BrandX,0.92,Yes,0.78,4,2,0,Water,2024-11-29
+1079,P002,Orange Juice 1L,BrandX,2.12,Yes,2.05,4,0,0,Juices,2024-11-22
+1073,P003,Mineral Water 1.5L,BrandY,1.0,No,0.91,4,1,0,Water,2024-11-16
+1077,P003,Mineral Water 1.5L,BrandX,1.15,No,1.23,3,1,1,Water,2024-12-01
+1095,P003,Mineral Water 1.5L,BrandY,0.9,Yes,1.06,7,2,1,Water,2024-11-21
+1034,P003,Mineral Water 1.5L,BrandY,1.08,No,0.87,3,1,0,Water,2024-11-07
+1054,P002,Orange Juice 1L,BrandX,2.29,No,2.05,5,1,0,Juices,2024-11-13
+1100,P002,Orange Juice 1L,BrandY,2.34,No,2.21,6,1,0,Juices,2024-12-01
+1021,P004,Energy Drink 0.33L,BrandY,1.82,No,1.79,6,3,0,Energy,2024-11-06
+1100,P003,Mineral Water 1.5L,BrandY,0.9,No,0.81,2,0,0,Water,2024-11-08
+1092,P001,Cola 0.5L,BrandY,1.24,Yes,1.46,8,1,0,Drinks,2024-11-14
+1077,P002,Orange Juice 1L,BrandY,2.39,No,2.37,10,3,1,Juices,2024-11-25
+1025,P001,Cola 0.5L,BrandX,1.64,No,1.44,8,0,0,Drinks,2024-11-26
+1012,P002,Orange Juice 1L,BrandX,2.31,No,2.42,2,0,0,Juices,2024-11-14
+1011,P002,Orange Juice 1L,BrandY,2.32,No,2.27,4,2,0,Juices,2024-11-09
+1010,P001,Cola 0.5L,BrandX,1.42,No,1.29,8,0,0,Drinks,2024-11-19
+1000,P001,Cola 0.5L,BrandY,1.3,Yes,1.62,7,0,0,Drinks,2024-11-04
+1066,P003,Mineral Water 1.5L,BrandX,1.01,No,0.86,6,1,0,Water,2024-11-01
+1097,P004,Energy Drink 0.33L,BrandX,1.84,No,1.51,9,1,0,Energy,2024-11-03
+1034,P004,Energy Drink 0.33L,BrandX,1.72,No,1.62,7,0,0,Energy,2024-11-14
+1002,P004,Energy Drink 0.33L,BrandY,1.8,No,1.75,1,0,0,Energy,2024-11-14
+1088,P001,Cola 0.5L,BrandY,1.66,No,1.6,6,0,0,Drinks,2024-11-04
+1035,P003,Mineral Water 1.5L,BrandY,0.93,No,1.22,6,3,1,Water,2024-11-21
+1020,P001,Cola 0.5L,BrandX,1.66,No,1.6,5,3,0,Drinks,2024-11-04
+1068,P002,Orange Juice 1L,BrandY,2.12,Yes,2.68,5,0,0,Juices,2024-11-06
+1001,P004,Energy Drink 0.33L,BrandY,1.81,No,1.87,5,0,1,Energy,2024-11-14
+1042,P004,Energy Drink 0.33L,BrandX,1.84,No,1.68,6,0,1,Energy,2024-11-08
+1026,P004,Energy Drink 0.33L,BrandX,1.94,No,1.84,3,0,0,Energy,2024-11-13
+1073,P004,Energy Drink 0.33L,BrandY,1.49,Yes,1.47,5,0,0,Energy,2024-11-01
+1037,P001,Cola 0.5L,BrandY,1.39,No,1.17,8,3,1,Drinks,2024-11-12
+1055,P003,Mineral Water 1.5L,BrandX,0.93,No,1.02,4,1,0,Water,2024-11-25
+1032,P002,Orange Juice 1L,BrandX,2.36,No,2.38,2,0,0,Juices,2024-12-01
+1025,P003,Mineral Water 1.5L,BrandX,1.01,No,0.94,4,2,0,Water,2024-11-08
+1018,P002,Orange Juice 1L,BrandX,2.21,No,2.22,7,1,0,Juices,2024-12-01
+1077,P002,Orange Juice 1L,BrandX,2.27,No,2.15,3,1,0,Juices,2024-11-20
+1058,P003,Mineral Water 1.5L,BrandX,0.94,No,0.98,6,0,0,Water,2024-11-28
+1079,P003,Mineral Water 1.5L,BrandX,0.89,No,0.93,4,1,1,Water,2024-11-11
+1099,P002,Orange Juice 1L,BrandY,2.35,No,2.35,8,1,0,Juices,2024-11-29
+1012,P003,Mineral Water 1.5L,BrandX,1.06,No,0.96,4,0,0,Water,2024-11-14
+1017,P001,Cola 0.5L,BrandY,1.54,No,1.25,5,1,1,Drinks,2024-11-20
+1020,P003,Mineral Water 1.5L,BrandY,0.95,Yes,0.92,6,2,0,Water,2024-11-15
+1074,P004,Energy Drink 0.33L,BrandX,1.76,No,1.89,3,0,0,Energy,2024-11-24
+1018,P003,Mineral Water 1.5L,BrandX,0.98,No,1.02,7,0,0,Water,2024-11-20
+1098,P003,Mineral Water 1.5L,BrandX,1.0,No,1.22,4,0,0,Water,2024-11-21
+1020,P003,Mineral Water 1.5L,BrandY,0.97,No,0.84,6,0,0,Water,2024-11-26
+1063,P002,Orange Juice 1L,BrandX,2.52,No,2.48,3,0,0,Juices,2024-11-22
+1058,P001,Cola 0.5L,BrandX,1.42,Yes,1.72,4,0,0,Drinks,2024-11-30
+1068,P003,Mineral Water 1.5L,BrandX,0.91,Yes,1.0,2,0,0,Water,2024-11-25
+1038,P003,Mineral Water 1.5L,BrandY,1.3,No,1.5,3,0,0,Water,2024-11-17
+1085,P002,Orange Juice 1L,BrandY,2.35,No,2.44,5,1,0,Juices,2024-11-30
+1043,P003,Mineral Water 1.5L,BrandX,1.05,No,0.98,5,3,0,Water,2024-11-03
+1098,P002,Orange Juice 1L,BrandY,1.97,Yes,1.94,4,1,0,Juices,2024-11-17
+1001,P002,Orange Juice 1L,BrandY,1.94,Yes,1.93,4,1,0,Juices,2024-11-04
+1020,P001,Cola 0.5L,BrandY,1.62,No,1.34,9,2,0,Drinks,2024-11-13
+1030,P001,Cola 0.5L,BrandY,1.4,Yes,1.76,4,0,0,Drinks,2024-11-13
+1090,P001,Cola 0.5L,BrandX,1.6,No,1.27,5,3,1,Drinks,2024-11-01
+1041,P001,Cola 0.5L,BrandX,1.38,Yes,1.53,4,1,0,Drinks,2024-11-01
+1023,P004,Energy Drink 0.33L,BrandY,1.66,No,1.78,7,3,0,Energy,2024-11-27
+1009,P004,Energy Drink 0.33L,BrandY,1.6,Yes,1.86,6,2,0,Energy,2024-11-06
+1064,P004,Energy Drink 0.33L,BrandX,1.76,No,1.98,7,1,0,Energy,2024-11-09
+1057,P004,Energy Drink 0.33L,BrandY,1.7,No,1.56,4,1,0,Energy,2024-11-25
+1065,P001,Cola 0.5L,BrandX,1.28,Yes,1.39,4,1,0,Drinks,2024-11-05
+1039,P001,Cola 0.5L,BrandX,1.33,No,1.34,3,0,0,Drinks,2024-11-21
+1061,P004,Energy Drink 0.33L,BrandY,1.89,No,1.96,5,1,0,Energy,2024-11-21
+1027,P003,Mineral Water 1.5L,BrandY,1.07,No,1.09,5,0,0,Water,2024-11-13
+1014,P004,Energy Drink 0.33L,BrandY,2.02,No,1.83,7,0,0,Energy,2024-11-11
+1070,P004,Energy Drink 0.33L,BrandX,1.81,No,1.95,2,0,0,Energy,2024-11-09
+1058,P002,Orange Juice 1L,BrandY,2.2,No,2.34,5,1,0,Juices,2024-11-25
+1047,P004,Energy Drink 0.33L,BrandX,1.9,No,1.87,5,0,0,Energy,2024-11-24
+1085,P003,Mineral Water 1.5L,BrandX,1.08,No,1.02,7,0,0,Water,2024-11-13
+1043,P002,Orange Juice 1L,BrandX,2.17,No,2.14,10,1,0,Juices,2024-11-15
+1076,P001,Cola 0.5L,BrandX,1.59,No,1.94,5,0,0,Drinks,2024-11-19
+1062,P002,Orange Juice 1L,BrandY,2.34,No,2.16,2,1,1,Juices,2024-11-30
+1042,P002,Orange Juice 1L,BrandY,2.13,Yes,2.28,8,3,0,Juices,2024-11-06
+1003,P002,Orange Juice 1L,BrandX,2.07,Yes,2.15,3,0,0,Juices,2024-11-04
+1087,P003,Mineral Water 1.5L,BrandX,0.98,No,1.06,6,1,0,Water,2024-11-11
+1089,P003,Mineral Water 1.5L,BrandY,1.06,No,0.96,2,0,0,Water,2024-11-19
+1073,P001,Cola 0.5L,BrandY,1.5,No,1.51,6,2,0,Drinks,2024-11-24
+1056,P003,Mineral Water 1.5L,BrandY,0.92,No,0.82,3,1,0,Water,2024-11-02
+1078,P002,Orange Juice 1L,BrandX,2.31,No,2.49,2,0,0,Juices,2024-11-04
+1020,P004,Energy Drink 0.33L,BrandX,1.78,No,1.93,5,1,0,Energy,2024-11-02
+1070,P003,Mineral Water 1.5L,BrandX,0.97,No,0.8,2,1,0,Water,2024-11-19
+1072,P001,Cola 0.5L,BrandX,1.44,No,1.42,5,1,0,Drinks,2024-11-13
+1063,P004,Energy Drink 0.33L,BrandY,1.58,No,1.74,1,0,0,Energy,2024-11-13
+1045,P002,Orange Juice 1L,BrandY,2.31,No,2.24,6,2,0,Juices,2024-11-24
+1038,P004,Energy Drink 0.33L,BrandY,1.56,Yes,1.72,7,1,1,Energy,2024-11-11
+1002,P004,Energy Drink 0.33L,BrandY,1.89,No,2.26,4,1,1,Energy,2024-11-13
+1037,P001,Cola 0.5L,BrandY,1.57,No,1.51,2,1,0,Drinks,2024-11-07
+1016,P001,Cola 0.5L,BrandY,1.49,No,1.14,5,2,0,Drinks,2024-11-09
+1003,P004,Energy Drink 0.33L,BrandY,1.97,No,2.05,6,0,0,Energy,2024-11-08
+1066,P002,Orange Juice 1L,BrandX,2.37,No,2.47,7,3,0,Juices,2024-11-14
+1023,P001,Cola 0.5L,BrandY,1.44,No,1.34,3,1,0,Drinks,2024-11-05
+1046,P004,Energy Drink 0.33L,BrandX,1.92,No,1.8,4,0,0,Energy,2024-11-14
+1015,P001,Cola 0.5L,BrandX,1.36,No,1.47,6,1,0,Drinks,2024-11-22
+1030,P004,Energy Drink 0.33L,BrandY,1.71,No,1.72,8,2,0,Energy,2024-11-24
+1004,P001,Cola 0.5L,BrandY,1.34,No,1.2,6,2,1,Drinks,2024-11-04
+1023,P002,Orange Juice 1L,BrandY,2.03,Yes,2.42,4,2,0,Juices,2024-11-21
+1089,P001,Cola 0.5L,BrandX,1.41,No,1.44,5,1,0,Drinks,2024-11-23
+1061,P001,Cola 0.5L,BrandY,1.4,Yes,1.57,3,1,1,Drinks,2024-11-13
+1085,P004,Energy Drink 0.33L,BrandX,1.81,No,1.81,4,0,0,Energy,2024-11-10
+1018,P002,Orange Juice 1L,BrandX,2.32,No,2.5,3,0,0,Juices,2024-11-04
+1027,P004,Energy Drink 0.33L,BrandY,1.83,No,1.78,4,0,0,Energy,2024-11-28
+1009,P004,Energy Drink 0.33L,BrandX,1.64,Yes,1.82,9,3,0,Energy,2024-11-03
+1039,P003,Mineral Water 1.5L,BrandY,0.83,No,0.69,4,0,0,Water,2024-11-05
+1054,P004,Energy Drink 0.33L,BrandY,1.77,No,1.55,6,0,0,Energy,2024-11-04
+1070,P003,Mineral Water 1.5L,BrandY,0.88,No,0.87,9,1,0,Water,2024-11-10
+1072,P003,Mineral Water 1.5L,BrandY,0.95,Yes,1.04,6,3,1,Water,2024-11-23
+1058,P003,Mineral Water 1.5L,BrandX,0.95,No,0.76,5,0,0,Water,2024-11-08
+1003,P002,Orange Juice 1L,BrandY,2.15,No,2.27,4,1,0,Juices,2024-11-14
+1022,P002,Orange Juice 1L,BrandY,2.17,No,2.11,6,0,0,Juices,2024-11-15
+1082,P003,Mineral Water 1.5L,BrandX,0.91,No,1.04,5,1,0,Water,2024-11-07
+1047,P001,Cola 0.5L,BrandX,1.18,No,1.3,5,0,0,Drinks,2024-11-22
+1020,P004,Energy Drink 0.33L,BrandX,1.55,Yes,1.63,3,1,1,Energy,2024-11-08
+1025,P003,Mineral Water 1.5L,BrandY,0.73,No,0.65,3,0,0,Water,2024-11-26
+1062,P002,Orange Juice 1L,BrandY,2.16,No,2.43,2,0,0,Juices,2024-11-20
+1070,P003,Mineral Water 1.5L,BrandX,1.16,No,0.99,4,2,0,Water,2024-11-04
+1078,P002,Orange Juice 1L,BrandX,2.4,No,2.29,5,2,0,Juices,2024-11-09
+1064,P004,Energy Drink 0.33L,BrandX,1.65,Yes,1.79,3,1,0,Energy,2024-11-14
+1059,P004,Energy Drink 0.33L,BrandX,1.99,No,2.06,6,2,0,Energy,2024-11-19
+1064,P001,Cola 0.5L,BrandY,1.3,Yes,1.76,4,1,1,Drinks,2024-11-28
+1014,P001,Cola 0.5L,BrandX,1.51,No,1.3,6,3,0,Drinks,2024-11-30
+1011,P003,Mineral Water 1.5L,BrandX,0.97,No,0.95,5,0,0,Water,2024-11-15
+1012,P003,Mineral Water 1.5L,BrandX,0.92,No,1.1,1,0,0,Water,2024-11-11
+1043,P001,Cola 0.5L,BrandX,1.57,No,1.48,4,0,0,Drinks,2024-11-11
+1044,P003,Mineral Water 1.5L,BrandY,1.12,No,1.15,5,0,0,Water,2024-11-30
+1087,P001,Cola 0.5L,BrandY,1.55,No,1.31,7,2,0,Drinks,2024-11-15
+1028,P003,Mineral Water 1.5L,BrandX,0.97,No,1.07,1,0,0,Water,2024-11-10
+1094,P003,Mineral Water 1.5L,BrandY,1.07,No,1.08,7,2,1,Water,2024-11-26
+1029,P001,Cola 0.5L,BrandY,1.37,Yes,1.37,3,0,0,Drinks,2024-11-02
+1022,P002,Orange Juice 1L,BrandY,2.06,Yes,2.17,8,0,0,Juices,2024-11-11
+1030,P004,Energy Drink 0.33L,BrandX,1.48,Yes,1.78,4,1,1,Energy,2024-11-15
+1029,P004,Energy Drink 0.33L,BrandY,1.48,Yes,1.75,2,0,0,Energy,2024-11-16
+1065,P001,Cola 0.5L,BrandY,1.32,Yes,1.59,7,1,1,Drinks,2024-11-06
+1038,P003,Mineral Water 1.5L,BrandX,0.85,Yes,0.56,6,1,0,Water,2024-11-14
+1023,P003,Mineral Water 1.5L,BrandX,1.02,No,1.16,4,2,0,Water,2024-11-28
+1030,P002,Orange Juice 1L,BrandX,2.21,No,2.32,7,1,0,Juices,2024-11-09
+1063,P001,Cola 0.5L,BrandY,1.65,No,1.73,5,0,0,Drinks,2024-11-28
+1028,P004,Energy Drink 0.33L,BrandY,1.89,No,1.88,5,1,0,Energy,2024-11-06
+1082,P002,Orange Juice 1L,BrandX,2.43,No,2.36,7,1,0,Juices,2024-11-14
+1000,P004,Energy Drink 0.33L,BrandX,1.63,Yes,2.01,6,3,0,Energy,2024-11-04
+1019,P002,Orange Juice 1L,BrandX,2.23,No,2.01,5,1,0,Juices,2024-11-03
+1056,P002,Orange Juice 1L,BrandX,2.32,No,2.34,7,3,0,Juices,2024-11-17
+1074,P003,Mineral Water 1.5L,BrandY,0.89,Yes,0.96,9,2,0,Water,2024-11-11
+1007,P004,Energy Drink 0.33L,BrandX,1.8,No,1.75,7,0,0,Energy,2024-11-16
+1020,P002,Orange Juice 1L,BrandX,2.25,No,2.51,2,1,0,Juices,2024-11-23
+1056,P004,Energy Drink 0.33L,BrandX,1.75,No,1.57,4,1,1,Energy,2024-11-11
+1037,P003,Mineral Water 1.5L,BrandY,0.93,No,0.89,3,1,0,Water,2024-11-09
+1038,P003,Mineral Water 1.5L,BrandX,1.3,No,1.34,4,1,0,Water,2024-11-06
+1047,P004,Energy Drink 0.33L,BrandY,1.56,No,1.53,4,2,1,Energy,2024-11-24
+1020,P002,Orange Juice 1L,BrandY,2.15,Yes,2.29,4,3,0,Juices,2024-11-22
+1069,P004,Energy Drink 0.33L,BrandX,1.72,No,2.02,4,0,0,Energy,2024-11-27
+1081,P004,Energy Drink 0.33L,BrandX,1.71,No,1.8,6,1,0,Energy,2024-11-30
+1099,P004,Energy Drink 0.33L,BrandY,1.86,No,1.87,7,1,0,Energy,2024-11-13
+1081,P003,Mineral Water 1.5L,BrandY,1.17,Yes,1.26,10,2,0,Water,2024-11-10
+1100,P004,Energy Drink 0.33L,BrandY,1.71,Yes,2.12,2,0,0,Energy,2024-11-20
+1015,P002,Orange Juice 1L,BrandX,2.21,No,2.24,5,3,0,Juices,2024-11-02
+1038,P003,Mineral Water 1.5L,BrandX,1.06,Yes,1.04,4,2,0,Water,2024-11-11
+1053,P001,Cola 0.5L,BrandX,1.56,No,1.83,5,1,0,Drinks,2024-11-10
+1072,P003,Mineral Water 1.5L,BrandY,1.06,No,0.98,3,1,0,Water,2024-11-27
+1074,P002,Orange Juice 1L,BrandY,2.2,No,2.44,3,1,0,Juices,2024-11-18
+1004,P004,Energy Drink 0.33L,BrandX,1.58,Yes,1.49,1,1,0,Energy,2024-11-06
+1040,P001,Cola 0.5L,BrandX,1.28,Yes,1.28,2,1,0,Drinks,2024-11-07
+1015,P002,Orange Juice 1L,BrandX,2.34,No,2.61,4,1,1,Juices,2024-11-10
+1056,P003,Mineral Water 1.5L,BrandX,0.85,No,0.78,7,2,0,Water,2024-11-21
+1094,P003,Mineral Water 1.5L,BrandX,0.99,No,1.15,2,1,0,Water,2024-11-13
+1037,P001,Cola 0.5L,BrandX,1.4,No,1.34,7,1,0,Drinks,2024-11-11
+1052,P002,Orange Juice 1L,BrandY,2.16,Yes,2.43,4,2,0,Juices,2024-11-10
+1035,P003,Mineral Water 1.5L,BrandY,1.01,No,0.85,6,0,0,Water,2024-11-30
+1051,P002,Orange Juice 1L,BrandY,2.23,No,2.36,4,1,0,Juices,2024-11-13
+1046,P002,Orange Juice 1L,BrandY,2.43,No,2.7,3,0,0,Juices,2024-11-19
+1012,P004,Energy Drink 0.33L,BrandY,1.84,No,1.97,4,1,1,Energy,2024-11-28
+1060,P004,Energy Drink 0.33L,BrandX,1.72,No,1.84,7,1,0,Energy,2024-11-20
+1063,P001,Cola 0.5L,BrandY,1.55,No,1.67,5,2,0,Drinks,2024-11-04
+1017,P002,Orange Juice 1L,BrandX,2.12,Yes,2.04,1,0,0,Juices,2024-11-24
+1087,P002,Orange Juice 1L,BrandX,2.34,No,2.37,2,0,0,Juices,2024-11-14
+1026,P001,Cola 0.5L,BrandY,1.41,No,1.67,3,1,1,Drinks,2024-11-29
+1014,P003,Mineral Water 1.5L,BrandY,0.89,No,0.97,6,1,0,Water,2024-11-09
+1099,P002,Orange Juice 1L,BrandY,2.27,No,2.4,7,2,0,Juices,2024-11-13
+1081,P003,Mineral Water 1.5L,BrandX,1.07,No,1.12,7,1,0,Water,2024-11-04
+1097,P004,Energy Drink 0.33L,BrandY,1.59,No,1.5,4,0,0,Energy,2024-11-03
+1096,P001,Cola 0.5L,BrandY,1.57,No,1.69,4,1,0,Drinks,2024-11-26
+1005,P003,Mineral Water 1.5L,BrandX,0.86,No,0.73,11,0,0,Water,2024-11-17
+1037,P003,Mineral Water 1.5L,BrandY,1.22,No,1.31,4,2,0,Water,2024-11-27
+1024,P001,Cola 0.5L,BrandY,1.46,No,1.54,9,0,0,Drinks,2024-11-27
+1070,P003,Mineral Water 1.5L,BrandY,1.14,No,1.19,3,0,0,Water,2024-11-21
+1098,P004,Energy Drink 0.33L,BrandY,1.78,No,1.9,2,1,1,Energy,2024-11-22
+1002,P001,Cola 0.5L,BrandX,1.56,No,1.54,2,1,0,Drinks,2024-11-02
+1088,P001,Cola 0.5L,BrandY,1.56,No,1.59,3,1,0,Drinks,2024-11-05
+1054,P003,Mineral Water 1.5L,BrandX,1.1,Yes,1.09,5,1,0,Water,2024-12-01
+1001,P001,Cola 0.5L,BrandY,1.41,No,1.54,4,1,0,Drinks,2024-11-19
+1063,P002,Orange Juice 1L,BrandX,2.15,No,2.27,4,0,0,Juices,2024-11-22
+1041,P003,Mineral Water 1.5L,BrandX,0.99,No,0.99,3,2,0,Water,2024-11-02
+1041,P004,Energy Drink 0.33L,BrandY,1.67,Yes,1.82,6,3,0,Energy,2024-11-16
+1068,P003,Mineral Water 1.5L,BrandY,0.82,Yes,0.78,3,0,0,Water,2024-11-10
+1012,P004,Energy Drink 0.33L,BrandX,1.57,Yes,1.85,2,0,0,Energy,2024-11-09
+1074,P002,Orange Juice 1L,BrandX,2.12,No,2.14,9,2,0,Juices,2024-11-26
+1079,P003,Mineral Water 1.5L,BrandY,0.95,No,0.75,7,1,0,Water,2024-11-12
+1068,P002,Orange Juice 1L,BrandY,2.42,No,2.4,3,0,0,Juices,2024-11-05
+1001,P004,Energy Drink 0.33L,BrandX,1.72,No,1.86,3,0,0,Energy,2024-11-27
+1002,P002,Orange Juice 1L,BrandX,2.14,No,2.29,3,1,0,Juices,2024-11-04
+1001,P004,Energy Drink 0.33L,BrandY,2.02,No,2.3,3,0,0,Energy,2024-11-06
+1097,P002,Orange Juice 1L,BrandY,2.24,No,2.32,5,1,1,Juices,2024-11-07
+1016,P004,Energy Drink 0.33L,BrandY,1.78,No,2.06,5,3,0,Energy,2024-11-23
+1063,P003,Mineral Water 1.5L,BrandY,0.94,No,1.13,4,0,0,Water,2024-11-12
+1098,P004,Energy Drink 0.33L,BrandY,1.97,No,1.81,3,1,1,Energy,2024-11-20
+1072,P004,Energy Drink 0.33L,BrandY,1.73,No,1.8,4,1,0,Energy,2024-11-16
+1095,P004,Energy Drink 0.33L,BrandY,1.75,No,1.42,4,1,0,Energy,2024-11-04
+1088,P002,Orange Juice 1L,BrandX,2.27,No,2.32,2,1,0,Juices,2024-11-23
+1042,P002,Orange Juice 1L,BrandY,2.15,Yes,2.46,3,0,0,Juices,2024-11-09
+1082,P002,Orange Juice 1L,BrandY,2.28,No,2.21,6,2,0,Juices,2024-12-01
+1072,P003,Mineral Water 1.5L,BrandY,0.9,No,1.0,9,1,0,Water,2024-11-30
+1039,P002,Orange Juice 1L,BrandY,2.26,No,2.17,5,2,0,Juices,2024-11-09
+1075,P002,Orange Juice 1L,BrandY,2.42,No,2.32,4,0,0,Juices,2024-11-14
+1029,P003,Mineral Water 1.5L,BrandX,0.97,No,1.2,7,2,0,Water,2024-11-09
+1003,P003,Mineral Water 1.5L,BrandX,1.13,No,1.15,4,0,0,Water,2024-11-06
+1023,P001,Cola 0.5L,BrandX,1.5,No,1.49,3,0,0,Drinks,2024-11-28
+1054,P004,Energy Drink 0.33L,BrandY,1.89,No,1.98,5,3,0,Energy,2024-11-07
+1033,P003,Mineral Water 1.5L,BrandX,0.78,No,0.74,7,2,0,Water,2024-11-07
+1090,P001,Cola 0.5L,BrandX,1.16,Yes,1.27,6,2,1,Drinks,2024-11-05
+1050,P003,Mineral Water 1.5L,BrandY,1.2,No,0.99,4,1,1,Water,2024-11-16
+1038,P002,Orange Juice 1L,BrandX,2.16,No,2.23,7,2,0,Juices,2024-11-24
+1098,P002,Orange Juice 1L,BrandY,2.3,No,2.11,4,0,0,Juices,2024-11-21
+1056,P003,Mineral Water 1.5L,BrandX,0.95,No,1.03,5,3,0,Water,2024-11-27
+1001,P001,Cola 0.5L,BrandY,1.42,No,1.37,3,0,0,Drinks,2024-11-24
+1097,P002,Orange Juice 1L,BrandX,2.18,No,2.06,6,1,1,Juices,2024-11-12
+1084,P003,Mineral Water 1.5L,BrandX,0.93,No,0.54,3,0,0,Water,2024-11-18
+1024,P001,Cola 0.5L,BrandY,1.48,No,1.69,4,0,0,Drinks,2024-11-20
+1064,P004,Energy Drink 0.33L,BrandY,1.75,No,1.66,5,1,0,Energy,2024-11-04
+1001,P001,Cola 0.5L,BrandX,1.37,No,1.52,2,1,0,Drinks,2024-11-07
+1054,P002,Orange Juice 1L,BrandX,1.95,Yes,2.29,2,0,0,Juices,2024-11-18
+1015,P003,Mineral Water 1.5L,BrandX,0.99,No,0.94,6,0,0,Water,2024-11-03
+1051,P003,Mineral Water 1.5L,BrandX,1.06,No,0.76,4,1,0,Water,2024-11-14
+1008,P001,Cola 0.5L,BrandY,1.5,No,1.36,5,1,0,Drinks,2024-11-19
+1095,P002,Orange Juice 1L,BrandY,2.18,No,2.28,5,1,1,Juices,2024-11-05
+1070,P003,Mineral Water 1.5L,BrandX,1.01,Yes,1.19,2,1,0,Water,2024-12-01
+1083,P003,Mineral Water 1.5L,BrandY,0.87,No,1.08,3,1,0,Water,2024-11-16
+1064,P002,Orange Juice 1L,BrandX,2.3,No,2.56,2,2,1,Juices,2024-11-10
+1075,P004,Energy Drink 0.33L,BrandY,1.88,No,1.62,2,0,1,Energy,2024-11-29
+1048,P001,Cola 0.5L,BrandY,1.3,Yes,1.48,5,2,0,Drinks,2024-11-10
+1071,P001,Cola 0.5L,BrandY,1.25,Yes,1.49,3,0,0,Drinks,2024-11-11
+1001,P001,Cola 0.5L,BrandX,1.33,No,1.56,6,1,0,Drinks,2024-11-05
+1057,P001,Cola 0.5L,BrandX,1.48,No,1.5,10,3,1,Drinks,2024-11-22
+1029,P003,Mineral Water 1.5L,BrandX,0.86,No,0.89,5,2,0,Water,2024-11-14
+1014,P004,Energy Drink 0.33L,BrandY,1.63,Yes,1.98,3,0,0,Energy,2024-11-09
+1019,P001,Cola 0.5L,BrandX,1.45,No,1.37,6,1,0,Drinks,2024-11-26
+1021,P004,Energy Drink 0.33L,BrandX,1.84,No,2.07,4,0,0,Energy,2024-11-23
+1013,P003,Mineral Water 1.5L,BrandY,0.95,No,1.05,5,3,0,Water,2024-11-22
+1069,P003,Mineral Water 1.5L,BrandY,1.06,No,1.2,8,0,0,Water,2024-11-26
+1084,P001,Cola 0.5L,BrandX,1.25,No,1.28,4,1,0,Drinks,2024-11-26
+1055,P004,Energy Drink 0.33L,BrandX,1.73,No,1.8,2,0,0,Energy,2024-11-28
+1082,P001,Cola 0.5L,BrandY,1.27,Yes,1.35,5,0,0,Drinks,2024-12-01
+1022,P001,Cola 0.5L,BrandY,1.33,No,1.24,6,2,0,Drinks,2024-11-22
+1046,P001,Cola 0.5L,BrandY,1.52,No,1.42,8,3,1,Drinks,2024-11-22
+1088,P002,Orange Juice 1L,BrandX,2.25,No,2.01,1,0,0,Juices,2024-11-13
+1032,P001,Cola 0.5L,BrandY,1.36,No,1.33,5,0,0,Drinks,2024-11-12
+1085,P002,Orange Juice 1L,BrandY,2.31,No,2.36,3,1,0,Juices,2024-11-22
+1006,P003,Mineral Water 1.5L,BrandY,0.95,Yes,1.05,6,1,1,Water,2024-11-09
+1044,P004,Energy Drink 0.33L,BrandX,1.66,Yes,1.73,7,1,1,Energy,2024-11-01
+1097,P001,Cola 0.5L,BrandY,1.48,No,1.6,5,1,1,Drinks,2024-11-24
+1011,P001,Cola 0.5L,BrandY,1.6,No,1.81,3,0,0,Drinks,2024-11-28
+1025,P003,Mineral Water 1.5L,BrandX,0.98,No,1.13,8,0,0,Water,2024-11-21
+1044,P003,Mineral Water 1.5L,BrandX,1.02,No,0.91,6,2,0,Water,2024-11-25
+1046,P003,Mineral Water 1.5L,BrandY,0.99,No,1.15,6,1,1,Water,2024-11-10
+1080,P003,Mineral Water 1.5L,BrandY,0.91,Yes,0.94,2,1,1,Water,2024-11-24
+1037,P001,Cola 0.5L,BrandX,1.47,No,1.24,5,1,1,Drinks,2024-11-25
+1084,P004,Energy Drink 0.33L,BrandX,1.82,No,2.07,6,1,0,Energy,2024-11-18
+1001,P003,Mineral Water 1.5L,BrandY,0.88,No,1.0,8,0,0,Water,2024-11-28
+1020,P003,Mineral Water 1.5L,BrandY,1.0,Yes,1.11,6,0,0,Water,2024-11-22
+1055,P004,Energy Drink 0.33L,BrandX,1.88,No,1.79,6,1,0,Energy,2024-11-23
+1091,P002,Orange Juice 1L,BrandX,2.2,No,2.18,3,1,0,Juices,2024-11-29
+1000,P001,Cola 0.5L,BrandY,1.66,No,1.31,4,1,0,Drinks,2024-11-01
+1010,P003,Mineral Water 1.5L,BrandY,1.05,Yes,1.25,5,0,0,Water,2024-11-07
+1050,P002,Orange Juice 1L,BrandX,2.33,No,2.22,1,1,0,Juices,2024-11-12
+1091,P003,Mineral Water 1.5L,BrandY,0.83,No,0.99,2,0,0,Water,2024-11-14
+1046,P003,Mineral Water 1.5L,BrandX,0.78,Yes,1.0,9,1,0,Water,2024-11-14
+1003,P001,Cola 0.5L,BrandY,1.34,Yes,1.74,10,1,1,Drinks,2024-11-30
+1070,P004,Energy Drink 0.33L,BrandY,1.74,No,1.54,4,0,0,Energy,2024-11-06
+1011,P001,Cola 0.5L,BrandY,1.46,No,1.22,3,1,0,Drinks,2024-11-27
+1075,P002,Orange Juice 1L,BrandY,1.92,Yes,1.84,3,0,0,Juices,2024-11-28
+1054,P001,Cola 0.5L,BrandX,1.37,No,1.44,5,1,0,Drinks,2024-11-04
+1005,P003,Mineral Water 1.5L,BrandX,1.02,No,1.33,4,0,0,Water,2024-11-07
+1068,P003,Mineral Water 1.5L,BrandX,1.03,No,0.78,6,2,0,Water,2024-11-07
+1060,P001,Cola 0.5L,BrandX,1.57,No,1.86,5,0,0,Drinks,2024-11-14
+1042,P004,Energy Drink 0.33L,BrandX,1.43,Yes,1.39,4,1,1,Energy,2024-11-26
+1096,P001,Cola 0.5L,BrandY,1.58,No,1.65,2,0,0,Drinks,2024-11-10
+1035,P004,Energy Drink 0.33L,BrandX,1.75,No,1.89,5,3,0,Energy,2024-11-01
+1010,P003,Mineral Water 1.5L,BrandX,1.09,No,0.89,5,3,0,Water,2024-11-20
+1091,P002,Orange Juice 1L,BrandX,2.56,No,2.57,3,1,0,Juices,2024-11-26
+1048,P004,Energy Drink 0.33L,BrandY,1.81,No,1.83,4,1,0,Energy,2024-11-28
+1066,P003,Mineral Water 1.5L,BrandX,0.86,Yes,0.9,6,2,0,Water,2024-11-08
+1067,P002,Orange Juice 1L,BrandX,2.48,No,2.61,3,2,0,Juices,2024-11-26
+1077,P002,Orange Juice 1L,BrandX,2.26,No,2.16,3,0,0,Juices,2024-11-23
+1084,P001,Cola 0.5L,BrandY,1.6,No,1.74,5,0,0,Drinks,2024-11-08
+1076,P003,Mineral Water 1.5L,BrandY,0.96,Yes,0.8,14,1,0,Water,2024-11-28
+1079,P003,Mineral Water 1.5L,BrandY,1.12,No,1.13,4,0,0,Water,2024-12-01
+1044,P002,Orange Juice 1L,BrandX,1.95,Yes,2.22,5,1,0,Juices,2024-11-28
+1013,P003,Mineral Water 1.5L,BrandX,0.97,No,1.1,9,1,1,Water,2024-11-02
+1029,P003,Mineral Water 1.5L,BrandX,0.99,No,0.98,7,0,0,Water,2024-11-07
+1014,P001,Cola 0.5L,BrandY,1.59,No,1.85,2,0,0,Drinks,2024-11-02
+1037,P002,Orange Juice 1L,BrandX,2.28,No,2.16,8,2,0,Juices,2024-11-21
+1089,P003,Mineral Water 1.5L,BrandY,0.84,No,0.92,4,3,0,Water,2024-11-09
+1065,P004,Energy Drink 0.33L,BrandY,1.97,No,2.0,6,1,0,Energy,2024-11-03
+1084,P003,Mineral Water 1.5L,BrandX,0.86,No,0.99,5,4,0,Water,2024-11-02
+1075,P001,Cola 0.5L,BrandY,1.62,No,1.48,6,0,0,Drinks,2024-11-10
+1043,P003,Mineral Water 1.5L,BrandX,0.94,No,0.93,5,0,0,Water,2024-11-04
+1064,P003,Mineral Water 1.5L,BrandY,0.92,No,0.82,8,0,0,Water,2024-11-02
+1002,P001,Cola 0.5L,BrandY,1.44,No,1.67,7,1,1,Drinks,2024-11-19
+1042,P003,Mineral Water 1.5L,BrandX,0.9,No,0.84,4,1,0,Water,2024-11-10
+1033,P002,Orange Juice 1L,BrandX,2.4,No,2.41,5,1,0,Juices,2024-11-24
+1050,P002,Orange Juice 1L,BrandY,2.21,No,2.14,6,1,0,Juices,2024-11-20
+1060,P003,Mineral Water 1.5L,BrandX,1.2,No,1.14,8,1,1,Water,2024-11-23
+1088,P003,Mineral Water 1.5L,BrandX,1.19,No,1.29,7,1,0,Water,2024-11-04
+1010,P002,Orange Juice 1L,BrandY,2.4,No,2.06,3,0,0,Juices,2024-11-04
+1019,P004,Energy Drink 0.33L,BrandX,1.95,No,2.11,8,1,0,Energy,2024-11-15
+1087,P002,Orange Juice 1L,BrandY,2.04,Yes,2.22,3,0,0,Juices,2024-11-02
+1045,P004,Energy Drink 0.33L,BrandX,1.82,No,1.71,2,1,1,Energy,2024-11-18
+1098,P003,Mineral Water 1.5L,BrandY,1.06,No,1.33,5,1,1,Water,2024-11-27
+1087,P004,Energy Drink 0.33L,BrandY,1.87,No,1.9,2,0,0,Energy,2024-12-01
+1082,P001,Cola 0.5L,BrandY,1.58,No,1.94,7,3,0,Drinks,2024-11-28
+1036,P004,Energy Drink 0.33L,BrandY,1.54,Yes,1.92,5,1,0,Energy,2024-11-09
+1058,P004,Energy Drink 0.33L,BrandX,1.79,No,1.92,2,0,0,Energy,2024-11-30
+1045,P004,Energy Drink 0.33L,BrandX,1.89,No,1.78,3,0,0,Energy,2024-11-22
+1021,P004,Energy Drink 0.33L,BrandY,1.89,No,2.11,2,0,0,Energy,2024-11-22
+1000,P004,Energy Drink 0.33L,BrandX,1.81,No,1.52,5,0,0,Energy,2024-11-27
+1009,P002,Orange Juice 1L,BrandY,2.07,Yes,2.33,8,2,1,Juices,2024-11-12
+1016,P001,Cola 0.5L,BrandX,1.46,No,1.39,6,1,0,Drinks,2024-11-17
+1037,P002,Orange Juice 1L,BrandX,2.42,No,2.28,6,2,0,Juices,2024-11-03
+1068,P002,Orange Juice 1L,BrandX,2.16,No,2.12,8,1,0,Juices,2024-11-29
+1083,P004,Energy Drink 0.33L,BrandY,1.99,No,1.92,8,1,1,Energy,2024-11-24
+1042,P003,Mineral Water 1.5L,BrandY,0.94,Yes,1.11,6,1,0,Water,2024-11-21
+1064,P003,Mineral Water 1.5L,BrandY,1.05,No,1.14,3,0,0,Water,2024-11-27
+1089,P002,Orange Juice 1L,BrandY,2.21,No,2.46,1,0,0,Juices,2024-11-18
+1028,P003,Mineral Water 1.5L,BrandX,1.05,No,0.71,8,0,0,Water,2024-11-23
+1034,P002,Orange Juice 1L,BrandX,1.98,Yes,1.75,4,0,0,Juices,2024-11-20
+1067,P001,Cola 0.5L,BrandY,1.35,No,1.37,4,0,0,Drinks,2024-11-02
+1023,P001,Cola 0.5L,BrandX,1.51,No,1.25,10,1,0,Drinks,2024-11-23
+1053,P004,Energy Drink 0.33L,BrandX,1.69,No,1.53,2,1,0,Energy,2024-11-08
+1065,P001,Cola 0.5L,BrandY,1.46,No,1.4,4,0,0,Drinks,2024-11-14
+1012,P004,Energy Drink 0.33L,BrandY,1.52,Yes,1.74,7,2,0,Energy,2024-11-14
+1063,P004,Energy Drink 0.33L,BrandX,1.57,No,1.6,8,0,0,Energy,2024-11-05
+1086,P002,Orange Juice 1L,BrandY,2.41,No,2.48,1,0,0,Juices,2024-11-27
+1042,P002,Orange Juice 1L,BrandX,2.06,Yes,1.95,5,3,0,Juices,2024-11-28
+1039,P001,Cola 0.5L,BrandX,1.66,No,1.68,5,0,0,Drinks,2024-11-07
+1090,P004,Energy Drink 0.33L,BrandY,1.71,No,1.72,6,1,1,Energy,2024-11-07
+1060,P003,Mineral Water 1.5L,BrandY,0.94,No,0.97,4,2,0,Water,2024-11-15
+1094,P002,Orange Juice 1L,BrandY,2.26,No,2.43,4,0,0,Juices,2024-11-11
+1061,P003,Mineral Water 1.5L,BrandY,0.71,Yes,0.73,1,0,1,Water,2024-12-01
+1074,P003,Mineral Water 1.5L,BrandX,1.07,No,1.27,6,2,0,Water,2024-11-25
+1043,P002,Orange Juice 1L,BrandY,2.14,No,1.97,5,0,0,Juices,2024-11-21
+1012,P002,Orange Juice 1L,BrandX,2.42,No,2.28,2,0,0,Juices,2024-11-22
+1010,P004,Energy Drink 0.33L,BrandY,1.74,No,1.81,5,0,0,Energy,2024-11-04
+1006,P001,Cola 0.5L,BrandX,1.27,No,1.27,2,0,0,Drinks,2024-11-02
+1043,P003,Mineral Water 1.5L,BrandX,1.11,No,1.21,6,3,1,Water,2024-11-15
+1030,P003,Mineral Water 1.5L,BrandY,1.03,No,1.06,2,0,0,Water,2024-11-27
+1060,P002,Orange Juice 1L,BrandX,2.13,No,1.97,3,1,0,Juices,2024-11-12
+1058,P001,Cola 0.5L,BrandY,1.23,Yes,1.51,3,0,0,Drinks,2024-11-24
+1074,P004,Energy Drink 0.33L,BrandY,1.71,No,1.65,6,0,0,Energy,2024-11-21
+1033,P002,Orange Juice 1L,BrandX,2.56,No,2.69,5,0,0,Juices,2024-11-02
+1099,P001,Cola 0.5L,BrandY,1.56,No,1.41,5,3,0,Drinks,2024-11-27
+1077,P002,Orange Juice 1L,BrandY,2.08,No,2.09,2,0,0,Juices,2024-11-13
+1065,P002,Orange Juice 1L,BrandY,2.19,No,2.03,7,2,0,Juices,2024-11-15
+1078,P004,Energy Drink 0.33L,BrandY,1.85,No,1.94,4,1,0,Energy,2024-11-30
+1091,P002,Orange Juice 1L,BrandY,2.16,No,2.2,4,0,0,Juices,2024-11-04
+1021,P001,Cola 0.5L,BrandY,1.58,No,1.69,6,0,0,Drinks,2024-11-18
+1028,P002,Orange Juice 1L,BrandX,2.27,No,2.52,3,0,0,Juices,2024-11-03
+1086,P001,Cola 0.5L,BrandY,1.53,No,1.66,3,2,0,Drinks,2024-11-04
+1033,P003,Mineral Water 1.5L,BrandX,0.99,No,0.84,4,1,1,Water,2024-11-25
+1038,P003,Mineral Water 1.5L,BrandY,1.05,No,0.87,5,2,0,Water,2024-12-01
+1081,P004,Energy Drink 0.33L,BrandX,1.81,No,1.81,7,1,0,Energy,2024-11-14
+1003,P003,Mineral Water 1.5L,BrandY,0.96,No,0.96,8,2,0,Water,2024-11-20
+1062,P003,Mineral Water 1.5L,BrandY,1.06,No,1.18,7,2,0,Water,2024-11-28
+1093,P004,Energy Drink 0.33L,BrandY,1.65,No,1.46,8,1,1,Energy,2024-11-01
+1031,P001,Cola 0.5L,BrandY,1.46,No,1.53,7,1,0,Drinks,2024-11-06
+1055,P001,Cola 0.5L,BrandY,1.71,No,1.72,4,1,0,Drinks,2024-11-25
+1032,P001,Cola 0.5L,BrandY,1.51,No,1.48,3,0,0,Drinks,2024-11-05
+1045,P003,Mineral Water 1.5L,BrandY,1.0,No,0.72,3,0,0,Water,2024-11-16
+1038,P003,Mineral Water 1.5L,BrandY,0.78,No,1.0,6,1,0,Water,2024-11-15
+1098,P003,Mineral Water 1.5L,BrandY,0.98,Yes,1.23,4,0,0,Water,2024-11-14
+1048,P004,Energy Drink 0.33L,BrandX,1.87,No,1.89,1,0,0,Energy,2024-11-09
+1083,P002,Orange Juice 1L,BrandX,2.12,Yes,2.31,4,0,0,Juices,2024-11-12
+1073,P003,Mineral Water 1.5L,BrandY,1.06,No,1.0,8,1,0,Water,2024-11-03
+1004,P001,Cola 0.5L,BrandY,1.42,No,1.37,5,1,0,Drinks,2024-11-01
+1042,P004,Energy Drink 0.33L,BrandX,1.71,No,1.53,6,1,0,Energy,2024-11-24
+1100,P001,Cola 0.5L,BrandY,1.57,No,1.75,7,2,0,Drinks,2024-11-19
+1056,P001,Cola 0.5L,BrandX,1.36,No,1.32,9,1,0,Drinks,2024-11-29
+1030,P001,Cola 0.5L,BrandX,1.47,No,1.67,7,1,0,Drinks,2024-11-11
+1040,P002,Orange Juice 1L,BrandY,2.33,No,2.15,6,3,0,Juices,2024-11-29
+1077,P002,Orange Juice 1L,BrandY,2.03,Yes,2.26,2,0,0,Juices,2024-11-22
+1057,P001,Cola 0.5L,BrandY,1.42,No,1.49,3,2,1,Drinks,2024-11-23
+1072,P004,Energy Drink 0.33L,BrandX,1.82,No,1.93,5,0,0,Energy,2024-11-18
+1052,P004,Energy Drink 0.33L,BrandY,1.85,No,2.05,0,0,1,Energy,2024-11-27
+1075,P001,Cola 0.5L,BrandX,1.47,No,1.67,6,0,0,Drinks,2024-11-26
+1072,P002,Orange Juice 1L,BrandX,1.94,Yes,2.22,10,1,0,Juices,2024-11-18
+1064,P002,Orange Juice 1L,BrandY,2.43,No,2.74,4,1,0,Juices,2024-11-25
+1044,P004,Energy Drink 0.33L,BrandX,1.73,No,1.66,6,3,0,Energy,2024-11-12
+1012,P002,Orange Juice 1L,BrandY,2.19,No,2.3,4,1,0,Juices,2024-11-04
+1046,P001,Cola 0.5L,BrandY,1.36,Yes,1.38,2,1,0,Drinks,2024-11-25
+1084,P002,Orange Juice 1L,BrandY,2.41,No,2.41,5,0,0,Juices,2024-11-12
+1024,P002,Orange Juice 1L,BrandY,2.38,No,2.67,3,1,1,Juices,2024-11-25
+1017,P002,Orange Juice 1L,BrandX,2.3,No,2.52,4,1,0,Juices,2024-11-19
+1048,P002,Orange Juice 1L,BrandX,2.22,No,2.11,6,1,0,Juices,2024-11-15
+1063,P001,Cola 0.5L,BrandX,1.18,No,1.16,3,0,0,Drinks,2024-11-27
+1088,P004,Energy Drink 0.33L,BrandY,1.98,No,1.81,8,0,0,Energy,2024-11-26
+1081,P002,Orange Juice 1L,BrandX,2.26,No,2.32,5,0,0,Juices,2024-11-07
+1043,P004,Energy Drink 0.33L,BrandX,1.75,No,1.68,1,0,1,Energy,2024-11-01
+1038,P003,Mineral Water 1.5L,BrandY,0.91,No,0.86,6,2,1,Water,2024-11-28
+1039,P003,Mineral Water 1.5L,BrandY,1.17,No,1.23,5,2,0,Water,2024-11-24
+1086,P003,Mineral Water 1.5L,BrandX,0.92,No,1.09,4,0,1,Water,2024-11-27
+1048,P001,Cola 0.5L,BrandX,1.53,No,1.45,2,0,0,Drinks,2024-11-05
+1065,P003,Mineral Water 1.5L,BrandX,0.99,No,1.39,6,1,0,Water,2024-11-04
+1020,P004,Energy Drink 0.33L,BrandY,1.74,No,1.46,7,1,0,Energy,2024-11-11
+1073,P003,Mineral Water 1.5L,BrandX,1.06,No,1.03,2,0,0,Water,2024-11-01
+1020,P003,Mineral Water 1.5L,BrandX,0.9,Yes,0.83,6,2,1,Water,2024-11-03
+1016,P004,Energy Drink 0.33L,BrandX,1.77,No,1.8,7,3,0,Energy,2024-11-17
+1074,P004,Energy Drink 0.33L,BrandY,1.82,No,2.09,4,2,0,Energy,2024-11-07
+1093,P001,Cola 0.5L,BrandY,1.43,No,1.32,5,1,0,Drinks,2024-11-10
+1015,P001,Cola 0.5L,BrandY,1.42,No,1.54,4,1,1,Drinks,2024-11-12
+1051,P003,Mineral Water 1.5L,BrandX,0.94,No,0.52,6,0,0,Water,2024-11-13
+1067,P004,Energy Drink 0.33L,BrandY,1.71,No,1.67,4,0,0,Energy,2024-11-11
+1001,P004,Energy Drink 0.33L,BrandY,1.92,No,1.67,7,2,1,Energy,2024-11-02
+1017,P004,Energy Drink 0.33L,BrandY,1.86,No,2.0,9,2,0,Energy,2024-11-21
+1004,P003,Mineral Water 1.5L,BrandY,0.99,No,1.24,4,0,1,Water,2024-11-10
+1088,P002,Orange Juice 1L,BrandY,2.24,No,2.13,5,2,1,Juices,2024-11-02
+1002,P003,Mineral Water 1.5L,BrandX,0.94,No,0.98,6,1,1,Water,2024-11-03
+1098,P004,Energy Drink 0.33L,BrandX,1.75,No,2.08,5,2,1,Energy,2024-11-08
+1046,P001,Cola 0.5L,BrandY,1.41,No,1.64,10,2,0,Drinks,2024-11-01
+1087,P003,Mineral Water 1.5L,BrandY,1.04,No,1.04,5,1,1,Water,2024-11-09
+1089,P004,Energy Drink 0.33L,BrandX,1.76,No,1.8,2,0,0,Energy,2024-11-27
+1034,P001,Cola 0.5L,BrandY,1.57,No,1.41,3,2,0,Drinks,2024-11-21
+1049,P002,Orange Juice 1L,BrandY,1.96,Yes,2.06,3,1,0,Juices,2024-11-13
+1096,P004,Energy Drink 0.33L,BrandY,1.7,No,1.87,5,1,0,Energy,2024-11-28
+1062,P001,Cola 0.5L,BrandX,1.69,No,1.57,10,0,0,Drinks,2024-11-10
+1032,P003,Mineral Water 1.5L,BrandY,1.0,No,0.91,4,1,0,Water,2024-11-04
+1057,P003,Mineral Water 1.5L,BrandX,1.02,No,1.05,6,1,0,Water,2024-11-15
+1030,P002,Orange Juice 1L,BrandY,2.19,No,2.19,4,0,0,Juices,2024-11-13
+1032,P001,Cola 0.5L,BrandX,1.57,No,1.64,10,3,0,Drinks,2024-11-08
+1007,P002,Orange Juice 1L,BrandX,2.29,No,2.33,5,2,0,Juices,2024-11-07
+1066,P004,Energy Drink 0.33L,BrandX,1.64,No,1.56,5,0,0,Energy,2024-11-15
+1019,P002,Orange Juice 1L,BrandX,2.27,No,2.39,8,2,1,Juices,2024-11-30
+1027,P003,Mineral Water 1.5L,BrandY,0.94,No,0.78,10,1,0,Water,2024-11-16
+1038,P001,Cola 0.5L,BrandY,1.48,No,1.56,7,3,1,Drinks,2024-11-13
+1001,P002,Orange Juice 1L,BrandY,2.31,No,2.48,6,2,0,Juices,2024-11-22
+1088,P001,Cola 0.5L,BrandX,1.24,Yes,1.42,4,0,0,Drinks,2024-11-10
+1066,P003,Mineral Water 1.5L,BrandY,0.92,Yes,1.16,6,1,0,Water,2024-11-22
+1089,P001,Cola 0.5L,BrandY,1.43,No,1.54,6,2,0,Drinks,2024-11-28
+1033,P001,Cola 0.5L,BrandX,1.32,Yes,1.27,6,1,0,Drinks,2024-11-21
+1049,P002,Orange Juice 1L,BrandX,1.98,Yes,2.11,6,1,0,Juices,2024-11-18
+1047,P002,Orange Juice 1L,BrandY,2.34,No,2.17,7,0,0,Juices,2024-11-21
+1000,P002,Orange Juice 1L,BrandY,2.22,No,2.33,5,1,0,Juices,2024-11-11
+1078,P003,Mineral Water 1.5L,BrandY,1.07,Yes,1.3,5,1,0,Water,2024-11-17
+1024,P001,Cola 0.5L,BrandY,1.56,No,1.46,7,1,0,Drinks,2024-11-17
+1099,P002,Orange Juice 1L,BrandX,2.39,No,2.26,6,0,0,Juices,2024-11-28
+1100,P003,Mineral Water 1.5L,BrandY,0.9,No,1.09,3,0,0,Water,2024-11-27
+1061,P001,Cola 0.5L,BrandY,1.45,Yes,1.5,5,0,0,Drinks,2024-11-01
+1074,P002,Orange Juice 1L,BrandY,2.34,No,2.55,7,1,0,Juices,2024-11-20
+1091,P004,Energy Drink 0.33L,BrandY,1.83,No,1.72,4,0,0,Energy,2024-12-01
+1074,P003,Mineral Water 1.5L,BrandX,0.99,No,0.74,8,3,0,Water,2024-11-26
+1081,P002,Orange Juice 1L,BrandY,2.29,No,2.19,6,1,1,Juices,2024-11-28
+1086,P003,Mineral Water 1.5L,BrandY,0.91,No,0.86,2,1,0,Water,2024-11-01
+1011,P004,Energy Drink 0.33L,BrandY,1.73,No,1.7,6,3,0,Energy,2024-11-19
+1078,P003,Mineral Water 1.5L,BrandX,0.97,No,0.86,3,1,0,Water,2024-11-15
+1063,P002,Orange Juice 1L,BrandY,2.25,No,2.41,2,0,0,Juices,2024-11-21
+1035,P004,Energy Drink 0.33L,BrandY,2.05,No,2.11,6,0,0,Energy,2024-11-03
+1067,P002,Orange Juice 1L,BrandX,2.31,No,2.28,2,0,0,Juices,2024-11-19
+1057,P004,Energy Drink 0.33L,BrandX,1.86,No,2.1,2,1,0,Energy,2024-11-20
+1010,P004,Energy Drink 0.33L,BrandX,1.89,No,1.92,4,2,0,Energy,2024-11-22
+1051,P002,Orange Juice 1L,BrandX,2.44,No,2.61,3,2,0,Juices,2024-11-09
+1044,P004,Energy Drink 0.33L,BrandX,1.55,Yes,1.83,9,3,0,Energy,2024-11-12
+1003,P001,Cola 0.5L,BrandX,1.51,No,1.34,6,3,0,Drinks,2024-11-20
+1053,P002,Orange Juice 1L,BrandX,2.52,No,2.31,5,0,0,Juices,2024-11-08
+1008,P001,Cola 0.5L,BrandX,1.6,No,1.79,8,0,0,Drinks,2024-11-24
+1070,P002,Orange Juice 1L,BrandY,2.26,No,2.24,10,4,0,Juices,2024-11-30
+1037,P003,Mineral Water 1.5L,BrandX,0.9,Yes,1.02,6,0,0,Water,2024-11-29
+1003,P001,Cola 0.5L,BrandY,1.57,No,1.67,10,2,0,Drinks,2024-12-01
+1024,P002,Orange Juice 1L,BrandX,2.33,No,2.2,7,3,1,Juices,2024-11-22
+1063,P002,Orange Juice 1L,BrandY,2.28,No,2.22,4,0,0,Juices,2024-11-19
+1011,P001,Cola 0.5L,BrandY,1.2,Yes,1.23,9,2,1,Drinks,2024-11-14
+1013,P001,Cola 0.5L,BrandY,1.45,No,1.14,9,3,0,Drinks,2024-11-14
+1023,P001,Cola 0.5L,BrandX,1.59,No,1.4,1,0,0,Drinks,2024-11-11
+1011,P003,Mineral Water 1.5L,BrandX,1.15,No,1.18,4,1,1,Water,2024-11-23
+1058,P002,Orange Juice 1L,BrandX,2.18,No,1.86,5,0,0,Juices,2024-11-12
+1083,P004,Energy Drink 0.33L,BrandY,1.67,Yes,1.75,5,1,0,Energy,2024-11-07
+1073,P002,Orange Juice 1L,BrandY,2.41,No,2.36,5,2,1,Juices,2024-11-11
+1099,P002,Orange Juice 1L,BrandY,2.1,Yes,2.03,4,2,0,Juices,2024-11-10
+1067,P003,Mineral Water 1.5L,BrandY,1.0,No,1.1,6,2,1,Water,2024-11-02
+1002,P001,Cola 0.5L,BrandY,1.52,No,1.42,5,0,0,Drinks,2024-11-24
+1048,P002,Orange Juice 1L,BrandX,2.28,No,1.97,7,0,0,Juices,2024-11-06
+1081,P003,Mineral Water 1.5L,BrandY,1.03,No,0.92,3,1,0,Water,2024-11-27
+1064,P003,Mineral Water 1.5L,BrandY,0.92,No,0.91,9,0,0,Water,2024-11-19
+1077,P001,Cola 0.5L,BrandY,1.49,No,1.29,5,1,0,Drinks,2024-11-18
+1087,P003,Mineral Water 1.5L,BrandX,0.98,No,1.21,8,1,1,Water,2024-11-25
+1064,P003,Mineral Water 1.5L,BrandY,0.9,No,0.76,7,0,0,Water,2024-11-04
+1036,P001,Cola 0.5L,BrandX,1.25,Yes,1.41,6,3,0,Drinks,2024-11-17
+1038,P002,Orange Juice 1L,BrandX,2.27,No,2.31,7,0,0,Juices,2024-11-26
+1018,P004,Energy Drink 0.33L,BrandX,1.83,No,1.7,3,0,0,Energy,2024-11-28
+1039,P002,Orange Juice 1L,BrandX,2.02,Yes,2.28,10,1,0,Juices,2024-11-11
+1038,P002,Orange Juice 1L,BrandX,2.28,No,2.33,2,1,0,Juices,2024-11-23
+1093,P002,Orange Juice 1L,BrandY,2.09,Yes,2.4,5,0,0,Juices,2024-11-01
+1060,P003,Mineral Water 1.5L,BrandX,0.96,No,1.1,5,0,0,Water,2024-11-18
+1065,P002,Orange Juice 1L,BrandX,2.02,Yes,2.29,9,5,0,Juices,2024-11-23
+1075,P001,Cola 0.5L,BrandX,1.56,No,1.46,5,1,1,Drinks,2024-11-30
+1060,P003,Mineral Water 1.5L,BrandX,1.15,No,1.28,5,0,0,Water,2024-11-22
+1040,P001,Cola 0.5L,BrandY,1.62,No,1.7,5,2,0,Drinks,2024-11-21
+1049,P003,Mineral Water 1.5L,BrandX,0.92,Yes,1.19,4,0,0,Water,2024-11-14
+1084,P002,Orange Juice 1L,BrandX,2.12,No,2.01,8,0,0,Juices,2024-11-15
+1007,P001,Cola 0.5L,BrandY,1.34,Yes,1.45,10,1,0,Drinks,2024-11-25
